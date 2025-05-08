@@ -1,0 +1,3 @@
+
+// пример загрузки hex файла через usb
+elbear_uploader hex/firmware.hex --com=COM3

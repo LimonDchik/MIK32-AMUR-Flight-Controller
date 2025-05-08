@@ -1,0 +1,1596 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+                              build/tasks.o (__clzsi2)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                              build/mik32_bmp280.o (__divdi3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+                              build/mik32_hal_scr1_timer.o (__udivdi3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+                              build/mik32_icm42688P.o (__addsf3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+                              build/mik32_icm42688P.o (__divsf3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+                              build/mik32_pid_bf.o (__nesf2)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+                              build/main.o (__gtsf2)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+                              build/mik32_filters.o (__lesf2)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+                              build/mik32_filters.o (__mulsf3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+                              build/main.o (__subsf3)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+                              build/main.o (__fixsfsi)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+                              build/main.o (__fixunssfsi)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+                              build/main.o (__floatsisf)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+                              build/mik32_mix_bf.o (__floatunsisf)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+                              d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o) (__clz_tab)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)
+                              build/queue.o (memcpy)
+d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memset.o)
+                              build/main.o (memset)
+
+Discarded input sections
+
+ .eh_frame      0x0000000000000000       0x28 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .eh_frame      0x0000000000000000       0x28 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000080000000 0x0000000000800000 xr
+ram              0x0000000002000000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD build/main.o
+LOAD build/scr_sys.o
+LOAD build/uart_lib.o
+LOAD build/xprintf.o
+LOAD build/mik32_hal_scr1_timer.o
+LOAD build/mik32_hal.o
+LOAD build/mik32_hal_adc.o
+LOAD build/mik32_hal_crc32.o
+LOAD build/mik32_hal_crypto.o
+LOAD build/mik32_hal_dac.o
+LOAD build/mik32_hal_dma.o
+LOAD build/mik32_hal_gpio.o
+LOAD build/mik32_hal_i2c.o
+LOAD build/mik32_hal_irq.o
+LOAD build/mik32_hal_otp.o
+LOAD build/mik32_hal_pcc.o
+LOAD build/mik32_hal_rtc.o
+LOAD build/mik32_hal_spi.o
+LOAD build/mik32_hal_spifi.o
+LOAD build/mik32_hal_timer16.o
+LOAD build/mik32_hal_timer32.o
+LOAD build/mik32_hal_usart.o
+LOAD build/croutine.o
+LOAD build/event_groups.o
+LOAD build/list.o
+LOAD build/queue.o
+LOAD build/stream_buffer.o
+LOAD build/tasks.o
+LOAD build/timers.o
+LOAD build/heap_1.o
+LOAD build/port.o
+LOAD build/mik32_qmc5883l.o
+LOAD build/mik32_bmp280.o
+LOAD build/mik32_icm42688P.o
+LOAD build/mik32_msp.o
+LOAD build/mik32_filters.o
+LOAD build/mik32_pid_bf.o
+LOAD build/mik32_pilot.o
+LOAD build/mik32_mix_bf.o
+LOAD build/dshot.o
+LOAD build/crt0.o
+LOAD build/portASM.o
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libnosys.a
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a
+                0x0000000000000400                STACK_SIZE = 0x400
+                0x0000000000000010                CL_SIZE = 0x10
+
+.text           0x0000000080000000     0xc4e0
+                [!provide]                        PROVIDE (__TEXT_START__ = .)
+ *crt0.o(.text .text.*)
+ .text          0x0000000080000000       0x76 build/crt0.o
+                0x0000000080000000                _start
+                0x0000000080000074                SystemInit
+                0x0000000080000074                SmallSystemInit
+ *(.text.smallsysteminit)
+ *(.text.SmallSystemInit)
+                0x00000000800000c0                . = (ORIGIN (rom) + 0xc0)
+ *fill*         0x0000000080000076       0x4a 
+ *crt0.o(.trap_text)
+ .trap_text     0x00000000800000c0       0x94 build/crt0.o
+                0x00000000800000c0                trap_entry
+                0x00000000800000c4                raw_trap_handler
+                0x0000000080000152                trap_handler
+ *(.text)
+ .text          0x0000000080000154      0x214 build/main.o
+                0x00000000800002ec                ext_trap_handler
+                0x0000000080000332                SystemClockConfig
+ .text          0x0000000080000368       0x82 build/scr_sys.o
+                0x0000000080000368                vPortSetupTimerInterrupt
+                0x0000000080000398                scr_systick_handler
+                0x00000000800003e0                vAssertCalled
+                0x00000000800003e8                vApplicationMallocFailedHook
+ .text          0x00000000800003ea      0x19a build/uart_lib.o
+                0x00000000800003ea                HAL_UART_MspInit
+                0x000000008000044a                UART_Init
+                0x00000000800004b8                UART_IsTransmissionFinished
+                0x00000000800004c0                UART_WaitTransmission
+                0x00000000800004d6                UART_IsTxBufferFreed
+                0x00000000800004de                UART_WriteByte
+                0x00000000800004e2                UART_Write
+                0x0000000080000512                UART_IsRxFifoEmpty
+                0x000000008000051e                UART_IsRxFifoFull
+                0x0000000080000526                UART_WaitReceiving
+                0x0000000080000530                UART_ReadByte
+                0x0000000080000538                UART_Read
+                0x0000000080000568                UART_ClearRxFifo
+                0x0000000080000576                xputc
+ .text          0x0000000080000584      0x5e6 build/xprintf.o
+                0x0000000080000584                xfputc
+                0x00000000800005aa                xputs
+                0x000000008000084a                xfputs
+                0x0000000080000880                xprintf
+                0x000000008000089e                xsprintf
+                0x00000000800008d6                xfprintf
+                0x000000008000090e                put_dump
+                0x00000000800009c0                xgets
+                0x0000000080000a48                xfgets
+                0x0000000080000a72                xatoi
+ .text          0x0000000080000b6a      0x13e build/mik32_hal_scr1_timer.o
+                0x0000000080000b6a                HAL_Time_SCR1TIM_Init
+                0x0000000080000be0                HAL_Time_SCR1TIM_Micros
+                0x0000000080000c24                HAL_Time_SCR1TIM_Millis
+                0x0000000080000c64                HAL_Time_SCR1TIM_DelayUs
+                0x0000000080000c86                HAL_Time_SCR1TIM_DelayMs
+ .text          0x0000000080000ca8       0xb8 build/mik32_hal.o
+                0x0000000080000ca8                HAL_MspInit
+                0x0000000080000cb6                HAL_Init
+                0x0000000080000cc4                HAL_ProgramDelayMs
+                0x0000000080000d0e                HAL_ProgramDelayUs
+                0x0000000080000d54                HAL_Micros
+                0x0000000080000d58                HAL_Millis
+                0x0000000080000d5c                HAL_DelayMs
+                0x0000000080000d5e                HAL_DelayUs
+ .text          0x0000000080000d60      0x218 build/mik32_hal_adc.o
+                0x0000000080000d60                HAL_ADC_MspInit
+                0x0000000080000e0a                HAL_ADC_CLBEnable
+                0x0000000080000e16                HAL_ADC_CLBDisable
+                0x0000000080000e22                HAL_ADC_VCLBSet
+                0x0000000080000e36                HAL_ADC_ICLBSet
+                0x0000000080000e50                HAL_ADC_ResetEnable
+                0x0000000080000e72                HAL_ADC_ResetDisable
+                0x0000000080000e90                HAL_ADC_Disable
+                0x0000000080000e9a                HAL_ADC_Enable
+                0x0000000080000ebc                HAL_ADC_ChannelSet
+                0x0000000080000ee2                HAL_ADC_Init
+                0x0000000080000f34                HAL_ADC_Single
+                0x0000000080000f3c                HAL_ADC_ContinuousDisabled
+                0x0000000080000f44                HAL_ADC_ContinuousEnable
+                0x0000000080000f4c                HAL_ADC_WaitValid
+                0x0000000080000f54                HAL_ADC_GetValue
+                0x0000000080000f5e                HAL_ADC_WaitAndGetValue
+ .text          0x0000000080000f78      0x196 build/mik32_hal_crc32.o
+                0x0000000080000f78                HAL_CRC32_MspInit
+                0x0000000080000f84                HAL_CRC_SetPoly
+                0x0000000080000f8c                HAL_CRC_SetInputReverse
+                0x0000000080000fa6                HAL_CRC_SetOutputInversion
+                0x0000000080000fc4                HAL_CRC_SetOutputReverse
+                0x0000000080000fe2                HAL_CRC_SetInit
+                0x0000000080001004                HAL_CRC_Init
+                0x0000000080001028                HAL_CRC_WaitBusy
+                0x0000000080001032                HAL_CRC_WriteData
+                0x00000000800010be                HAL_CRC_WriteData32
+                0x00000000800010fa                HAL_CRC_ReadCRC
+ .text          0x000000008000110e      0x26a build/mik32_hal_crypto.o
+                0x000000008000110e                HAL_CRYPTO_MspInit
+                0x000000008000111a                HAL_Crypto_CounterReset
+                0x0000000080001126                HAL_Crypto_WaitReady
+                0x0000000080001132                HAL_Crypto_SetAlgorithm
+                0x0000000080001144                HAL_Crypto_SetCipherMode
+                0x0000000080001156                HAL_Crypto_SetSwapMode
+                0x000000008000116a                HAL_Crypto_SetOrderMode
+                0x000000008000117e                HAL_Crypto_SetIV
+                0x00000000800011b0                HAL_Crypto_SetKey
+                0x00000000800011ea                HAL_Crypto_Init
+                0x000000008000121a                HAL_Crypto_Encode
+                0x00000000800012c8                HAL_Crypto_Decode
+ .text          0x0000000080001378      0x18a build/mik32_hal_dac.o
+                0x0000000080001378                HAL_DAC_MspInit
+                0x00000000800013de                HAL_DAC_CLBEnable
+                0x00000000800013ea                HAL_DAC_CLBDisable
+                0x00000000800013f6                HAL_DAC_VCLBSet
+                0x000000008000140a                HAL_DAC_ICLBSet
+                0x0000000080001424                HAL_DAC_SetDiv
+                0x0000000080001434                HAL_DAC_ResetEnable
+                0x0000000080001440                HAL_DAC_ResetDisable
+                0x000000008000144a                HAL_DAC_Disable
+                0x0000000080001454                HAL_DAC_Enable
+                0x0000000080001460                HAL_DAC_Init
+                0x00000000800014f8                HAL_DAC_SetValue
+ .text          0x0000000080001502      0x25c build/mik32_hal_dma.o
+                0x0000000080001502                HAL_DMA_MspInit
+                0x000000008000150e                HAL_DMA_SetChannel
+                0x0000000080001512                HAL_DMA_ClearLocalIrq
+                0x000000008000152c                HAL_DMA_ClearGlobalIrq
+                0x0000000080001546                HAL_DMA_ClearErrorIrq
+                0x0000000080001560                HAL_DMA_ClearIrq
+                0x0000000080001578                HAL_DMA_SetCurrentValue
+                0x0000000080001594                HAL_DMA_GlobalIRQEnable
+                0x00000000800015ae                HAL_DMA_ErrorIRQEnable
+                0x00000000800015c8                HAL_DMA_LocalIRQEnable
+                0x00000000800015f4                HAL_DMA_Init
+                0x0000000080001620                HAL_DMA_Wait
+                0x000000008000163e                HAL_DMA_GetChannelReadyStatus
+                0x0000000080001654                HAL_DMA_GetChannelIrq
+                0x000000008000166c                HAL_DMA_GetBusError
+                0x0000000080001686                HAL_DMA_ChannelDisable
+                0x00000000800016a8                HAL_DMA_ChannelEnable
+                0x00000000800016cc                HAL_DMA_Start
+ .text          0x000000008000175e      0x21c build/mik32_hal_gpio.o
+                0x000000008000175e                HAL_GPIO_Init
+                0x000000008000182e                HAL_GPIO_PinConfig
+                0x0000000080001844                HAL_GPIO_ReadPin
+                0x000000008000184e                HAL_GPIO_WritePin
+                0x0000000080001858                HAL_GPIO_TogglePin
+                0x0000000080001860                HAL_GPIO_InitInterruptLine
+                0x00000000800018f0                HAL_GPIO_DeInitInterruptLine
+                0x0000000080001936                HAL_GPIO_LineInterruptState
+                0x0000000080001952                HAL_GPIO_LinePinState
+                0x000000008000196a                HAL_GPIO_ClearInterrupts
+ .text          0x000000008000197a      0xf4e build/mik32_hal_i2c.o
+                0x000000008000197a                HAL_I2C_MspInit
+                0x00000000800019e4                HAL_I2C_Disable
+                0x00000000800019ee                HAL_I2C_Reset
+                0x0000000080001a06                HAL_I2C_Enable
+                0x0000000080001a12                HAL_I2C_AnalogFilterInit
+                0x0000000080001a2c                HAL_I2C_DigitalFilterInit
+                0x0000000080001a58                HAL_I2C_SetClockSpeed
+                0x0000000080001a94                HAL_I2C_NoStretchMode
+                0x0000000080001ab6                HAL_I2C_OwnAddress1
+                0x0000000080001b1c                HAL_I2C_OwnAddress2
+                0x0000000080001b52                HAL_I2C_GeneralCall
+                0x0000000080001b6e                HAL_I2C_SBCMode
+                0x0000000080001b88                HAL_I2C_SlaveInit
+                0x0000000080001ba8                HAL_I2C_MasterInit
+                0x0000000080001baa                HAL_I2C_Init
+                0x0000000080001bf6                HAL_I2C_AutoEnd
+                0x0000000080001c10                HAL_I2C_Master_WaitTC
+                0x0000000080001c2a                HAL_I2C_Master_WaitTCR
+                0x0000000080001c44                HAL_I2C_Master_WaitTXIS
+                0x0000000080001c84                HAL_I2C_Master_WaitRXNE
+                0x0000000080001cba                HAL_I2C_Master_SlaveAddress
+                0x0000000080001d08                HAL_I2C_WaitBusy
+                0x0000000080001d2a                HAL_I2C_Master_NBYTES
+                0x0000000080001d96                HAL_I2C_Master_Transmit
+                0x0000000080001f32                HAL_I2C_Master_Receive
+                0x00000000800020d8                HAL_I2C_Slave_WaitADDR
+                0x00000000800020f6                HAL_I2C_Slave_WaitTXIS
+                0x0000000080002168                HAL_I2C_Slave_WaitRXNE
+                0x00000000800021d8                HAL_I2C_Slave_Transmit
+                0x0000000080002298                HAL_I2C_Slave_Receive
+                0x0000000080002320                HAL_I2C_Slave_WaitTCR
+                0x0000000080002336                HAL_I2C_Slave_ACK
+                0x0000000080002344                HAL_I2C_Slave_NACK
+                0x0000000080002350                HAL_I2C_Slave_SBC
+                0x0000000080002360                HAL_I2C_Slave_ReceiveSBC
+                0x0000000080002440                HAL_I2C_Master_Transmit_DMA
+                0x00000000800024c8                HAL_I2C_Master_Receive_DMA
+                0x000000008000254c                HAL_I2C_Slave_Transmit_DMA
+                0x00000000800025dc                HAL_I2C_Slave_Receive_DMA
+                0x0000000080002642                HAL_I2C_InterruptDisable
+                0x0000000080002654                HAL_I2C_InterruptEnable
+                0x0000000080002662                HAL_I2C_Master_Transmit_IT
+                0x00000000800026b2                HAL_I2C_Master_Receive_IT
+                0x0000000080002702                HAL_I2C_Slave_Transmit_IT
+                0x000000008000276a                HAL_I2C_Slave_Transmit_NOSTRETCH_IT
+                0x00000000800027d2                HAL_I2C_Slave_Receive_IT
+                0x0000000080002824                HAL_I2C_Slave_Receive_NOSTRETCH_IT
+                0x0000000080002876                HAL_I2C_Slave_ReceiveSBC_IT
+ .text          0x00000000800028c8       0x74 build/mik32_hal_irq.o
+                0x00000000800028c8                HAL_IRQ_EnableInterrupts
+                0x00000000800028d8                HAL_IRQ_DisableInterrupts
+                0x00000000800028e4                HAL_EPIC_MaskEdgeSet
+                0x00000000800028f4                HAL_EPIC_MaskEdgeClear
+                0x0000000080002904                HAL_EPIC_MaskLevelSet
+                0x0000000080002914                HAL_EPIC_MaskLevelClear
+                0x0000000080002924                HAL_EPIC_GetStatus
+                0x0000000080002930                HAL_EPIC_GetRawStatus
+ .text          0x000000008000293c      0x338 build/mik32_hal_otp.o
+                0x000000008000293c                HAL_OTP_MspInit
+                0x0000000080002948                HAL_OTP_PowerOff
+                0x0000000080002974                HAL_OTP_SetUppRead
+                0x0000000080002988                HAL_OTP_SetReadCur
+                0x000000008000299c                HAL_OPT_TimeInit
+                0x0000000080002a60                HAL_OPT_SetReadMode
+                0x0000000080002a70                HAL_OTP_Init
+                0x0000000080002a92                HAL_OTP_WaitBSY
+                0x0000000080002a9c                HAL_OTP_WriteTestColumn
+                0x0000000080002ade                HAL_OTP_WriteTestRow
+                0x0000000080002aea                HAL_OTP_WriteTestBit
+                0x0000000080002af6                HAL_OTP_Write
+                0x0000000080002b36                HAL_OTP_ReadTestColumn
+                0x0000000080002bac                HAL_OTP_ReadTestRow
+                0x0000000080002bd8                HAL_OTP_ReadTestBit
+                0x0000000080002c04                HAL_OTP_Read
+ .text          0x0000000080002c74      0x368 build/mik32_hal_pcc.o
+                0x0000000080002c74                HAL_PCC_OscEnable
+                0x0000000080002cc0                HAL_PCC_OscDisable
+                0x0000000080002d14                HAL_PCC_FreqMonRefSet
+                0x0000000080002d8c                HAL_PCC_SetOscSystem
+                0x0000000080002dfe                HAL_PCC_RTCClock
+                0x0000000080002e7e                HAL_PCC_CPURTCClock
+                0x0000000080002ec8                HAL_PCC_DividerAHB
+                0x0000000080002ed0                HAL_PCC_DividerAPB_M
+                0x0000000080002ed8                HAL_PCC_DividerAPB_P
+                0x0000000080002ee0                HAL_PCC_Config
+                0x0000000080002fc0                HAL_PCC_GetSysClockFreq
+ .text          0x0000000080002fdc      0x30e build/mik32_hal_rtc.o
+                0x0000000080002fdc                HAL_RTC_MspInit
+                0x0000000080002fe8                HAL_RTC_WaitFlag
+                0x000000008000300a                HAL_RTC_Disable
+                0x000000008000301c                HAL_RTC_Enable
+                0x0000000080003030                HAL_RTC_SetTime
+                0x0000000080003080                HAL_RTC_SetDate
+                0x00000000800030d8                HAL_RTC_Alarm_SetTime
+                0x0000000080003130                HAL_RTC_Alarm_SetDate
+                0x0000000080003196                HAL_RTC_SetAlarm
+                0x00000000800031b2                HAL_RTC_AlarmDisable
+                0x00000000800031de                HAL_RTC_ClearAlrmFlag
+                0x00000000800031ee                HAL_RTC_GetAlrmFlag
+                0x00000000800031f8                HAL_RTC_GetDate
+                0x0000000080003262                HAL_RTC_GetTime
+                0x00000000800032c2                HAL_RTC_SetInterruptAlarm
+                0x00000000800032da                HAL_RTC_InterruptInit
+                0x00000000800032e0                HAL_RTC_GetINTE
+ .text          0x00000000800032ea      0x3d6 build/mik32_hal_spi.o
+                0x00000000800032ea                HAL_SPI_MspInit
+                0x0000000080003424                HAL_SPI_SetDelayBTWN
+                0x000000008000343e                HAL_SPI_SetDelayAFTER
+                0x0000000080003458                HAL_SPI_SetDelayINIT
+                0x000000008000346c                HAL_SPI_SetSlaveIdleCounter
+                0x0000000080003472                HAL_SPI_SetThresholdTX
+                0x000000008000347c                HAL_SPI_ReadModuleID
+                0x0000000080003484                HAL_SPI_ClearTXFIFO
+                0x0000000080003490                HAL_SPI_ClearRXFIFO
+                0x000000008000349c                HAL_SPI_ClearError
+                0x00000000800034c6                HAL_SPI_Enable
+                0x00000000800034de                HAL_SPI_Disable
+                0x00000000800034e8                HAL_SPI_Init
+                0x000000008000358e                HAL_SPI_CS_Enable
+                0x00000000800035a6                HAL_SPI_CS_Disable
+                0x00000000800035bc                HAL_SPI_Exchange
+                0x000000008000366c                HAL_SPI_Exchange_IT
+ .text          0x00000000800036c0      0x1b6 build/mik32_hal_spifi.o
+                0x00000000800036c0                HAL_SPIFI_MspInit
+                0x0000000080003708                HAL_SPIFI_MemoryMode_Init
+                0x0000000080003764                HAL_SPIFI_SendCommand_LL
+                0x000000008000380c                HAL_SPIFI_SendCommand
+                0x0000000080003858                HAL_SPIFI_IsMemoryModeEnabled
+                0x0000000080003860                HAL_SPIFI_Reset
+                0x0000000080003868                HAL_SPIFI_IsReady
+ .text          0x0000000080003876      0xb08 build/mik32_hal_timer16.o
+                0x0000000080003876                HAL_TIMER16_MspInit
+                0x00000000800039f6                HAL_Timer16_Disable
+                0x0000000080003a00                HAL_Timer16_Enable
+                0x0000000080003a0c                HAL_Timer16_SetActiveEdge
+                0x0000000080003a34                HAL_Timer16_SetSourceClock
+                0x0000000080003abe                HAL_Timer16_SetCountMode
+                0x0000000080003b00                HAL_Timer16_ClockInit
+                0x0000000080003b1c                HAL_Timer16_SetPreload
+                0x0000000080003b5e                HAL_Timer16_WaitARROK
+                0x0000000080003b6c                HAL_Timer16_WaitCMPOK
+                0x0000000080003b7a                HAL_Timer16_SetARR
+                0x0000000080003b8a                HAL_Timer16_SetCMP
+                0x0000000080003b9a                HAL_Timer16_SelectTrigger
+                0x0000000080003bc6                HAL_Timer16_SetTriggerEdge
+                0x0000000080003bf4                HAL_Timer16_SetTimeOut
+                0x0000000080003c22                HAL_Timer16_SetFilterExternalClock
+                0x0000000080003c50                HAL_Timer16_SetFilterTrigger
+                0x0000000080003c80                HAL_Timer16_SetEncoderMode
+                0x0000000080003cae                HAL_Timer16_WaveformPolarity
+                0x0000000080003cdc                HAL_Timer16_SetPrescaler
+                0x0000000080003d0c                HAL_Timer16_Init
+                0x0000000080003d62                HAL_Timer16_GetCounterValue
+                0x0000000080003d6c                HAL_Timer16_CheckCMP
+                0x0000000080003d74                HAL_Timer16_WaitCMP
+                0x0000000080003d7e                HAL_Timer16_Counter_Start
+                0x0000000080003daa                HAL_Timer16_StartPWM
+                0x0000000080003df0                HAL_Timer16_StartOneShot
+                0x0000000080003e36                HAL_Timer16_StartSetOnes
+                0x0000000080003e7a                HAL_Timer16_Encoder_Start
+                0x0000000080003eb8                HAL_Timer16_Encoder_Stop
+                0x0000000080003ece                HAL_Timer16_Stop
+                0x0000000080003ed0                HAL_Timer16_Counter_Start_IT
+                0x0000000080003f0c                HAL_Timer16_StartPWM_IT
+                0x0000000080003f72                HAL_Timer16_StartOneShot_IT
+                0x0000000080003fd8                HAL_Timer16_StartSetOnes_IT
+                0x000000008000403c                HAL_Timer16_Encoder_Start_IT
+                0x000000008000408c                HAL_Timer16_Encoder_Stop_IT
+                0x00000000800040ae                HAL_Timer16_Stop_IT
+                0x00000000800040d6                HAL_Timer16_WaitTrigger
+                0x00000000800040e4                HAL_Timer16_SetInterruptMask
+                0x00000000800040ea                HAL_Timer16_SetInterruptDOWN
+                0x00000000800040f6                HAL_Timer16_SetInterruptUP
+                0x0000000080004102                HAL_Timer16_SetInterruptARROK
+                0x000000008000410e                HAL_Timer16_SetInterruptCMPOK
+                0x000000008000411a                HAL_Timer16_SetInterruptEXTTRIG
+                0x0000000080004126                HAL_Timer16_SetInterruptARRM
+                0x0000000080004132                HAL_Timer16_SetInterruptCMPM
+                0x000000008000413e                HAL_Time_TIM16_InterruptHandler
+                0x00000000800041ae                HAL_Time_TIM16_Init
+                0x00000000800042ce                HAL_Time_TIM16_Micros
+                0x0000000080004306                HAL_Time_TIM16_Millis
+                0x000000008000433a                HAL_Time_TIM16_DelayUs
+                0x000000008000435c                HAL_Time_TIM16_DelayMs
+ .text          0x000000008000437e      0x72e build/mik32_hal_timer32.o
+                0x000000008000437e                HAL_TIMER32_MspInit
+                0x0000000080004412                HAL_TIMER32_Channel_MspInit
+                0x000000008000448c                HAL_Timer32_State_Set
+                0x00000000800044a0                HAL_Timer32_Top_Set
+                0x00000000800044a8                HAL_Timer32_Prescaler_Set
+                0x00000000800044b0                HAL_Timer32_Source_Set
+                0x0000000080004534                HAL_Timer32_InterruptMask_Set
+                0x0000000080004544                HAL_Timer32_InterruptMask_Clear
+                0x0000000080004558                HAL_Timer32_CountMode_Set
+                0x0000000080004566                HAL_Timer32_Init
+                0x00000000800045ce                HAL_Timer32_InterruptFlags_ClearMask
+                0x00000000800045d4                HAL_Timer32_Channel_Enable
+                0x00000000800045fa                HAL_Timer32_Channel_Disable
+                0x000000008000461e                HAL_Timer32_Channel_PWM_Invert_Set
+                0x0000000080004644                HAL_Timer32_Channel_Mode_Set
+                0x000000008000466a                HAL_Timer32_Channel_CaptureEdge_Set
+                0x000000008000468e                HAL_Timer32_Channel_OCR_Set
+                0x00000000800046aa                HAL_Timer32_Channel_ICR_Set
+                0x00000000800046c4                HAL_Timer32_Channel_ICR_Clear
+                0x00000000800046e0                HAL_Timer32_Channel_Noise_Set
+                0x0000000080004702                HAL_Timer32_Channel_Init
+                0x0000000080004758                HAL_Timer32_Channel_DeInit
+                0x00000000800047a0                HAL_Timer32_Start
+                0x00000000800047b0                HAL_Timer32_Stop
+                0x00000000800047be                HAL_Timer32_Base_Start_IT
+                0x00000000800047d4                HAL_Timer32_Base_Stop_IT
+                0x00000000800047ea                HAL_Timer32_PWM_Start_IT
+                0x000000008000482e                HAL_Timer32_PWM_Stop_IT
+                0x000000008000484e                HAL_Timer32_Compare_Start_IT
+                0x0000000080004896                HAL_Timer32_Compare_Stop_IT
+                0x00000000800048be                HAL_Timer32_Capture_Start_IT
+                0x0000000080004908                HAL_Timer32_Capture_Stop_IT
+                0x000000008000492e                HAL_Timer32_Start_IT
+                0x0000000080004942                HAL_Timer32_Stop_IT
+                0x0000000080004956                HAL_Time_TIM32_Init
+                0x00000000800049ec                HAL_Time_TIM32_Micros
+                0x0000000080004a2c                HAL_Time_TIM32_Millis
+                0x0000000080004a68                HAL_Time_TIM32_DelayUs
+                0x0000000080004a8a                HAL_Time_TIM32_DelayMs
+ .text          0x0000000080004aac      0x5fe build/mik32_hal_usart.o
+                0x0000000080004aac                HAL_USART_MspInit
+                0x0000000080004c46                HAL_USART_Read_ReceiveEnableAck
+                0x0000000080004c50                HAL_USART_Read_TransmitEnableAck
+                0x0000000080004c5a                HAL_USART_Init
+                0x0000000080004dfc                HAL_USART_CTS_ReadLevel
+                0x0000000080004e06                HAL_USART_CTS_ReadToggleFlag
+                0x0000000080004e10                HAL_USART_RX_ReadBreakFlag
+                0x0000000080004e1a                HAL_USART_TXC_ReadFlag
+                0x0000000080004e24                HAL_USART_Transmit
+                0x0000000080004ea0                HAL_USART_Write
+                0x0000000080004ee0                HAL_USART_Print
+                0x0000000080004f16                HAL_USART_TXE_ReadFlag
+                0x0000000080004f20                HAL_USART_RXNE_ReadFlag
+                0x0000000080004f2a                HAL_USART_Receive
+                0x0000000080004fb2                HAL_USART_Read
+                0x0000000080004ff0                HAL_USART_IDLE_ReadFlag
+                0x0000000080004ffa                HAL_USART_ReceiveOverwrite_ReadFlag
+                0x0000000080005004                HAL_USART_NF_ReadFlag
+                0x000000008000500e                HAL_USART_StopBitError_ReadFlag
+                0x0000000080005018                HAL_USART_ParityError_ReadFlag
+                0x000000008000505a                HAL_USART_Set_DTR
+                0x000000008000506e                HAL_USART_DCD_Status
+                0x0000000080005078                HAL_USART_DCD_ReadToggleFlag
+                0x0000000080005082                HAL_USART_RI_Status
+                0x000000008000508c                HAL_USART_RI_ReadToggleFlag
+                0x0000000080005096                HAL_USART_DSR_Status
+                0x00000000800050a0                HAL_USART_DSR_ReadToggleFlag
+ .text          0x00000000800050aa        0x0 build/croutine.o
+ .text          0x00000000800050aa      0x2fe build/event_groups.o
+                0x00000000800050aa                xEventGroupCreate
+                0x00000000800050cc                xEventGroupWaitBits
+                0x00000000800051b2                xEventGroupClearBits
+                0x00000000800051f0                xEventGroupGetBitsFromISR
+                0x00000000800051f4                xEventGroupSetBits
+                0x000000008000529a                xEventGroupSync
+                0x0000000080005366                vEventGroupDelete
+                0x00000000800053a4                vEventGroupSetBitsCallback
+                0x00000000800053a6                vEventGroupClearBitsCallback
+ .text          0x00000000800053a8       0x82 build/list.o
+                0x00000000800053a8                vListInitialise
+                0x00000000800053bc                vListInitialiseItem
+                0x00000000800053c2                vListInsertEnd
+                0x00000000800053d8                vListInsert
+                0x0000000080005406                uxListRemove
+ .text          0x000000008000542a      0xaee build/queue.o
+                0x0000000080005574                xQueueGenericReset
+                0x00000000800055e6                xQueueGenericCreate
+                0x000000008000562e                xQueueCreateCountingSemaphore
+                0x000000008000565e                xQueueGenericSend
+                0x000000008000578c                xQueueCreateMutex
+                0x00000000800057bc                xQueueGiveMutexRecursive
+                0x00000000800057fe                xQueueGenericSendFromISR
+                0x000000008000589e                xQueueGiveFromISR
+                0x0000000080005910                xQueueReceive
+                0x0000000080005a18                xQueueSemaphoreTake
+                0x0000000080005b50                xQueueTakeMutexRecursive
+                0x0000000080005b94                xQueuePeek
+                0x0000000080005ca2                xQueueReceiveFromISR
+                0x0000000080005d2e                xQueuePeekFromISR
+                0x0000000080005d7a                uxQueueMessagesWaiting
+                0x0000000080005d9e                uxQueueSpacesAvailable
+                0x0000000080005dc6                uxQueueMessagesWaitingFromISR
+                0x0000000080005dde                xQueueIsQueueEmptyFromISR
+                0x0000000080005dfa                xQueueIsQueueFullFromISR
+                0x0000000080005e1a                vQueueAddToRegistry
+                0x0000000080005e46                pcQueueGetName
+                0x0000000080005e70                vQueueUnregisterQueue
+                0x0000000080005e9e                vQueueDelete
+                0x0000000080005ebc                vQueueWaitForMessageRestricted
+ .text          0x0000000080005f18      0x6d8 build/stream_buffer.o
+                0x000000008000604a                xStreamBufferGenericCreate
+                0x00000000800060d4                vStreamBufferDelete
+                0x0000000080006110                xStreamBufferReset
+                0x000000008000618a                xStreamBufferSetTriggerLevel
+                0x00000000800061b8                xStreamBufferSpacesAvailable
+                0x00000000800061e0                xStreamBufferBytesAvailable
+                0x00000000800061f4                xStreamBufferSend
+                0x00000000800062ee                xStreamBufferSendFromISR
+                0x0000000080006386                xStreamBufferReceive
+                0x0000000080006462                xStreamBufferNextMessageLengthBytes
+                0x00000000800064aa                xStreamBufferReceiveFromISR
+                0x000000008000653e                xStreamBufferIsEmpty
+                0x000000008000655e                xStreamBufferIsFull
+                0x0000000080006588                xStreamBufferSendCompletedFromISR
+                0x00000000800065bc                xStreamBufferReceiveCompletedFromISR
+ .text          0x00000000800065f0     0x15ca build/tasks.o
+                0x00000000800066de                uxTaskPriorityGetFromISR
+                0x00000000800066ec                xTaskResumeFromISR
+                0x0000000080006784                vTaskEndScheduler
+                0x0000000080006794                vTaskSuspendAll
+                0x00000000800067a4                xTaskGetTickCount
+                0x00000000800067ae                xTaskGetTickCountFromISR
+                0x00000000800067b8                uxTaskGetNumberOfTasks
+                0x00000000800067c2                pcTaskGetName
+                0x00000000800067e6                xTaskIncrementTick
+                0x000000008000693e                vTaskSwitchContext
+                0x00000000800069c6                vTaskPlaceOnEventList
+                0x00000000800069f2                vTaskPlaceOnUnorderedEventList
+                0x0000000080006a42                vTaskPlaceOnEventListRestricted
+                0x0000000080006a78                xTaskRemoveFromEventList
+                0x0000000080006b0a                vTaskRemoveFromUnorderedEventList
+                0x0000000080006b94                vTaskInternalSetTimeOutState
+                0x0000000080006baa                vTaskMissedYield
+                0x0000000080006bb6                xTaskGetCurrentTaskHandle
+                0x0000000080006bc0                xTaskGetSchedulerState
+                0x0000000080006bdc                xTaskPriorityInherit
+                0x0000000080006cb6                xTaskPriorityDisinherit
+                0x0000000080006d62                vTaskPriorityDisinheritAfterTimeout
+                0x0000000080006e3c                vTaskEnterCritical
+                0x0000000080006e5e                vTaskExitCritical
+                0x0000000080006e8c                xTaskCreate
+                0x0000000080007060                vTaskStartScheduler
+                0x00000000800070d6                vTaskDelete
+                0x00000000800071b8                eTaskGetState
+                0x0000000080007238                uxTaskPriorityGet
+                0x000000008000725c                vTaskPrioritySet
+                0x0000000080007354                vTaskSuspend
+                0x000000008000743c                vTaskResume
+                0x000000008000752e                xTaskResumeAll
+                0x0000000080007638                vTaskDelayUntil
+                0x000000008000769e                vTaskDelay
+                0x00000000800076d8                vTaskSetTimeOutState
+                0x0000000080007708                xTaskCheckForTimeOut
+                0x000000008000777c                uxTaskResetEventItemValue
+                0x0000000080007798                pvTaskIncrementMutexHeldCount
+                0x00000000800077b2                ulTaskNotifyTake
+                0x0000000080007826                xTaskNotifyWait
+                0x00000000800078d6                xTaskGenericNotify
+                0x00000000800079bc                xTaskGenericNotifyFromISR
+                0x0000000080007ac8                vTaskNotifyGiveFromISR
+                0x0000000080007b7e                xTaskNotifyStateClear
+ .text          0x0000000080007bba      0x594 build/timers.o
+                0x0000000080007c6e                xTimerCreateTimerTask
+                0x0000000080007cb2                xTimerCreate
+                0x0000000080007d1c                xTimerGenericCommand
+                0x0000000080007fc6                xTimerGetTimerDaemonTaskHandle
+                0x0000000080007fe8                xTimerGetPeriod
+                0x0000000080008000                vTimerSetReloadMode
+                0x0000000080008038                xTimerGetExpiryTime
+                0x0000000080008050                pcTimerGetName
+                0x0000000080008068                xTimerIsTimerActive
+                0x0000000080008090                pvTimerGetTimerID
+                0x00000000800080b4                vTimerSetTimerID
+                0x00000000800080d8                xTimerPendFunctionCallFromISR
+                0x0000000080008100                xTimerPendFunctionCall
+ .text          0x000000008000814e       0x98 build/heap_1.o
+                0x000000008000814e                pvPortMalloc
+                0x00000000800081c0                vPortFree
+                0x00000000800081c8                vPortInitialiseBlocks
+                0x00000000800081d2                xPortGetFreeHeapSize
+ .text          0x00000000800081e6       0x32 build/port.o
+                0x00000000800081e6                xPortStartScheduler
+                0x0000000080008216                vPortEndScheduler
+ .text          0x0000000080008218      0x11e build/mik32_qmc5883l.o
+                0x0000000080008218                QMC5883L_WriteReg
+                0x0000000080008244                QMC5883L_ReadReg
+                0x0000000080008294                QMC5883L_Init
+                0x00000000800082dc                QMC5883L_ReadData
+ .text          0x0000000080008336      0x43c build/mik32_bmp280.o
+                0x0000000080008336                BMP280_I2C_Write
+                0x0000000080008342                BMP280_I2C_Read
+                0x000000008000834e                BMP280_Init
+                0x0000000080008444                BMP280_ReadPressure
+                0x0000000080008480                BMP280_ReadTemp
+                0x00000000800084bc                bmp280_compensate_T_int32
+                0x000000008000850a                bmp280_compensate_P_int64
+                0x000000008000872a                BMP280_ReadCookedPressure
+ .text          0x0000000080008772      0x3dc build/mik32_icm42688P.o
+                0x0000000080008772                performGyroCalibration
+                0x00000000800087ee                ICM42688P_ReadGyroData
+                0x00000000800088c4                SPI0_Init
+                0x00000000800088f2                ICM42688P_Init
+ .text          0x0000000080008b4e      0x2e8 build/mik32_msp.o
+                0x0000000080008b4e                ChecksumCheck
+                0x0000000080008b8a                MSP_SendMessage
+                0x0000000080008bda                MSP_GetMessage
+                0x0000000080008c5c                EMPTY_FUNCTION
+                0x0000000080008c5e                checksumAdd
+                0x0000000080008ca8                MSP_ISR
+                0x0000000080008d7a                MSPUART_Init
+                0x0000000080008e2c                MSP_Init
+ .text          0x0000000080008e36      0x1dc build/mik32_filters.o
+                0x0000000080008e36                pt1FilterGain
+                0x0000000080008e6e                pt1FilterGainFromDelay
+                0x0000000080008eda                pt1FilterInit
+                0x0000000080008ee4                pt1FilterUpdateCutoff
+                0x0000000080008ee8                pt1FilterApply
+                0x0000000080008f14                pt2FilterGain
+                0x0000000080008f58                pt2FilterGainFromDelay
+                0x0000000080008fb8                pt2FilterInit
+                0x0000000080008fc4                pt2FilterUpdateCutoff
+                0x0000000080008fc8                pt2FilterApply
+ .text          0x0000000080009012      0x7aa build/mik32_pid_bf.o
+                0x0000000080009012                accelerationLimit
+                0x00000000800090aa                constrainfPID
+                0x00000000800090e0                pidController
+                0x0000000080009332                pidBFInitDefault
+                0x0000000080009494                pidBFSetPidFrequencyDt
+                0x00000000800094bc                pidBFSetStabilisationEnabled
+                0x00000000800094c6                pidBFSetPidCoefficient
+                0x00000000800094de                pidBFSetDtermLowpass
+                0x0000000080009510                pidBFSetMaxVelocity
+                0x0000000080009526                pidBFSetPtermYawLowpass
+                0x000000008000954a                pidBFSetAntiGravity
+                0x0000000080009554                pidBFSetAntiGravityGain
+                0x000000008000956e                pidBFSetAntiGravityPGain
+                0x0000000080009578                pidBFSetItermAccelerator
+                0x0000000080009582                pidBFSetAntiGravityThrottleD
+                0x000000008000958c                pidBFSetAntiGravityLPF
+                0x00000000800095b0                pidBFSetItermLimit
+                0x00000000800095ba                pidBFSetItermLimitYaw
+                0x00000000800095c4                pidBFSetZeroThrottleItermReset
+                0x00000000800095ce                pidBFSetTpaFactor
+                0x00000000800095d8                pidBFSetTpaLowBreakpoint
+                0x00000000800095e2                pidBFSetTpaMultiplier
+                0x00000000800095ec                pidBFSetTpaLowAlways
+                0x00000000800095f6                pidBFSetTpaLowMultiplier
+                0x0000000080009600                pidBFSetTpaBreakpoint
+                0x000000008000960a                pidBFGetPidSumLimit
+                0x0000000080009614                pidBFGetPidSumLimitYaw
+                0x000000008000961e                rawSetpointUpdate
+                0x0000000080009634                pidUpdateAntiGravityThrottleFilter
+                0x00000000800096e4                getTpaFactorClassic
+                0x0000000080009772                pidUpdateTpaFactor
+ .text          0x00000000800097bc        0xa build/mik32_pilot.o
+                0x00000000800097bc                rcCommandGet
+ .text          0x00000000800097c6      0x684 build/mik32_mix_bf.o
+                0x00000000800097c6                constrainfMIX
+                0x00000000800097fc                applyThrottleLimit
+                0x0000000080009866                scaleRangef
+                0x00000000800098be                applyMixerAdjustment
+                0x00000000800099ae                calculateThrottleAndCurrentMotorEndpoints
+                0x0000000080009a62                applyMixToMotors
+                0x0000000080009b3c                mixTable
+                0x0000000080009d0c                mixBfInitDefault
+                0x0000000080009d98                mixBFSetThrottleLimitType
+                0x0000000080009da2                mixBFSetThrottleLimitPercent
+                0x0000000080009dac                mixBFSetMotorCount
+                0x0000000080009db6                mixBFSetCurrentMixer
+                0x0000000080009e18                mixBFSetMotorOutputLow
+                0x0000000080009e22                mixBFSetMotorOutputHigh
+                0x0000000080009e2c                mixBFSetDisarmMotorOutput
+                0x0000000080009e36                mixerSetThrottleAngleCorrection
+                0x0000000080009e40                mixBFSetYawMotorsReversed
+ .text          0x0000000080009e4a      0x51c build/dshot.o
+                0x0000000080009e4a                dshotChooseType
+                0x0000000080009e74                DMA_CH_Init
+                0x0000000080009ea2                DMA_Init
+                0x0000000080009f3e                dshotInitTimer
+                0x000000008000a0b6                dshotDMAIRQ
+                0x000000008000a136                dshotDMAIRQInit
+                0x000000008000a176                dshotStartPWM
+                0x000000008000a1c4                dshotInit
+                0x000000008000a1de                dshotPreparePacket
+                0x000000008000a200                dshotPrepareDMAbuffer
+                0x000000008000a23e                dshotPrepareDMAbufferAll
+                0x000000008000a280                dshotDMAStart
+                0x000000008000a30c                dshotEnableDMARequest
+                0x000000008000a358                dshotWrite
+ *fill*         0x000000008000a366       0x9a 
+ .text          0x000000008000a400      0x2d4 build/portASM.o
+                0x000000008000a400                freertos_risc_v_trap_handler
+                0x000000008000a500                xPortStartFirstTask
+                0x000000008000a600                pxPortInitialiseStack
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .text          0x000000008000a6d4        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .text          0x000000008000a6d4       0xa8 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memset.o)
+                0x000000008000a6d4                memset
+ *(.text.*)
+ .text.startup  0x000000008000a77c      0x17c build/main.o
+                0x000000008000a77c                main
+ .text.__clzsi2
+                0x000000008000a8f8       0x76 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+                0x000000008000a8f8                __clzsi2
+ .text.__divdi3
+                0x000000008000a96e      0x3e0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+                0x000000008000a96e                __divdi3
+ .text.__udivdi3
+                0x000000008000ad4e      0x3a4 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+                0x000000008000ad4e                __udivdi3
+ .text.__addsf3
+                0x000000008000b0f2      0x396 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+                0x000000008000b0f2                __addsf3
+ .text.__divsf3
+                0x000000008000b488      0x2a8 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+                0x000000008000b488                __divsf3
+ .text.__eqsf2  0x000000008000b730       0x54 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+                0x000000008000b730                __eqsf2
+                0x000000008000b730                __nesf2
+ .text.__gesf2  0x000000008000b784       0x82 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+                0x000000008000b784                __gesf2
+                0x000000008000b784                __gtsf2
+ .text.__lesf2  0x000000008000b806       0x82 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+                0x000000008000b806                __ltsf2
+                0x000000008000b806                __lesf2
+ .text.__mulsf3
+                0x000000008000b888      0x28c d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+                0x000000008000b888                __mulsf3
+ .text.__subsf3
+                0x000000008000bb14      0x38a d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+                0x000000008000bb14                __subsf3
+ .text.__fixsfsi
+                0x000000008000be9e       0x62 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+                0x000000008000be9e                __fixsfsi
+ .text.__fixunssfsi
+                0x000000008000bf00       0x5c d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+                0x000000008000bf00                __fixunssfsi
+ .text.__floatsisf
+                0x000000008000bf5c       0xd2 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+                0x000000008000bf5c                __floatsisf
+ .text.__floatunsisf
+                0x000000008000c02e       0xcc d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+                0x000000008000c02e                __floatunsisf
+ .text.memcpy   0x000000008000c0fa       0xdc d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)
+                0x000000008000c0fa                memcpy
+ *(.rodata)
+ *fill*         0x000000008000c1d6        0x2 
+ .rodata        0x000000008000c1d8       0x20 build/mik32_hal_adc.o
+ .rodata        0x000000008000c1f8       0x14 build/mik32_hal_timer32.o
+ .rodata        0x000000008000c20c       0x28 build/tasks.o
+ .rodata        0x000000008000c234       0x28 build/timers.o
+ .rodata        0x000000008000c25c       0x10 build/mik32_pilot.o
+                0x000000008000c25c                rcCommand
+ .rodata        0x000000008000c26c       0x40 build/mik32_mix_bf.o
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000008000c2ac       0x31 build/main.o
+ *fill*         0x000000008000c2dd        0x3 
+ .rodata.str1.4
+                0x000000008000c2e0       0x1f build/xprintf.o
+ *fill*         0x000000008000c2ff        0x1 
+ .rodata.str1.4
+                0x000000008000c300        0x5 build/tasks.o
+ *fill*         0x000000008000c305        0x3 
+ .rodata.str1.4
+                0x000000008000c308       0x10 build/timers.o
+ .rodata.__divsf3
+                0x000000008000c318       0x80 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+ .rodata.__mulsf3
+                0x000000008000c398       0x40 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .rodata.__clz_tab
+                0x000000008000c3d8      0x100 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+                0x000000008000c3d8                __clz_tab
+                0x000000008000c4e0                . = ALIGN (CL_SIZE)
+ *fill*         0x000000008000c4d8        0x8 
+                0x000000008000c4e0                PROVIDE (__TEXT_END__ = .)
+
+.rela.dyn       0x000000008000c4e0        0x0
+ .rela.text     0x000000008000c4e0        0x0 build/main.o
+ .rela.trap_text
+                0x000000008000c4e0        0x0 build/main.o
+
+.data           0x0000000002000000       0x70 load address 0x000000008000c4e0
+                0x0000000002000000                PROVIDE (__DATA_START__ = .)
+                0x0000000002000000                _gp = .
+ *(.srodata.cst16)
+ *(.srodata.cst8)
+ *(.srodata.cst4)
+ .srodata.cst4  0x0000000002000000        0x4 build/main.o
+ .srodata.cst4  0x0000000002000004        0x4 build/mik32_icm42688P.o
+ .srodata.cst4  0x0000000002000008       0x10 build/mik32_filters.o
+ .srodata.cst4  0x0000000002000018       0x2c build/mik32_pid_bf.o
+                                         0x38 (size before relaxing)
+ .srodata.cst4  0x0000000002000044        0x8 build/mik32_mix_bf.o
+                                         0x18 (size before relaxing)
+ .srodata.cst4  0x000000000200004c        0x4 build/dshot.o
+                                          0x8 (size before relaxing)
+ *(.srodata.cst2)
+ *(.srodata*)
+ .srodata       0x0000000002000050        0x7 build/mik32_hal_crypto.o
+ *fill*         0x0000000002000057        0x1 
+ .srodata       0x0000000002000058        0x3 build/mik32_hal_usart.o
+ *fill*         0x000000000200005b        0x1 
+ .srodata       0x000000000200005c        0xc build/port.o
+                0x000000000200005c                pullMachineTimerCompareRegister
+                0x0000000002000060                uxTimerIncrementsForOneTick
+                0x0000000002000064                xISRStackTop
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000002000068        0x4 build/port.o
+                0x0000000002000068                pullNextTime
+ *(.data .data.*)
+ .data          0x000000000200006c        0x0 build/main.o
+ .data          0x000000000200006c        0x0 build/scr_sys.o
+ .data          0x000000000200006c        0x0 build/uart_lib.o
+ .data          0x000000000200006c        0x0 build/xprintf.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_scr1_timer.o
+ .data          0x000000000200006c        0x0 build/mik32_hal.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_adc.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_crc32.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_crypto.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_dac.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_dma.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_gpio.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_i2c.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_irq.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_otp.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_pcc.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_rtc.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_spi.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_spifi.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_timer16.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_timer32.o
+ .data          0x000000000200006c        0x0 build/mik32_hal_usart.o
+ .data          0x000000000200006c        0x0 build/croutine.o
+ .data          0x000000000200006c        0x0 build/event_groups.o
+ .data          0x000000000200006c        0x0 build/list.o
+ .data          0x000000000200006c        0x0 build/queue.o
+ .data          0x000000000200006c        0x0 build/stream_buffer.o
+ .data          0x000000000200006c        0x0 build/tasks.o
+ .data          0x000000000200006c        0x0 build/timers.o
+ .data          0x000000000200006c        0x0 build/heap_1.o
+ .data          0x000000000200006c        0x0 build/port.o
+ .data          0x000000000200006c        0x0 build/mik32_qmc5883l.o
+ .data          0x000000000200006c        0x0 build/mik32_bmp280.o
+ .data          0x000000000200006c        0x0 build/mik32_icm42688P.o
+ .data          0x000000000200006c        0x0 build/mik32_msp.o
+ .data          0x000000000200006c        0x0 build/mik32_filters.o
+ .data          0x000000000200006c        0x0 build/mik32_pid_bf.o
+ .data          0x000000000200006c        0x0 build/mik32_pilot.o
+ .data          0x000000000200006c        0x0 build/mik32_mix_bf.o
+ .data          0x000000000200006c        0x0 build/dshot.o
+ .data          0x000000000200006c        0x0 build/crt0.o
+ .data          0x000000000200006c        0x0 build/portASM.o
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .data          0x000000000200006c        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memset.o)
+                0x0000000002000070                . = ALIGN (CL_SIZE)
+ *fill*         0x000000000200006c        0x4 
+                0x0000000002000070                _edata = .
+                0x000000008000c4e0                __DATA_IMAGE_START__ = LOADADDR (.data)
+                0x000000008000c550                __DATA_IMAGE_END__ = (LOADADDR (.data) + SIZEOF (.data))
+                0x0000000000000001                ASSERT ((__DATA_IMAGE_END__ < (ORIGIN (rom) + LENGTH (rom))), Data image overflows rom section)
+
+.tdata          0x0000000002000070        0x0
+                [!provide]                        PROVIDE (_tls_data = .)
+                [!provide]                        PROVIDE (_tdata_begin = .)
+ *(.tdata .tdata.*)
+                [!provide]                        PROVIDE (_tdata_end = .)
+                0x0000000002000070                . = ALIGN (CL_SIZE)
+
+.tbss           0x0000000002000070        0x0
+                0x0000000002000070                PROVIDE (__BSS_START__ = .)
+ *(.tbss .tbss.*)
+                0x0000000002000070                . = ALIGN (CL_SIZE)
+                [!provide]                        PROVIDE (_tbss_end = .)
+
+.sbss           0x0000000002000070      0x128 load address 0x000000008000c550
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000002000070       0x14 build/main.o
+                0x0000000002000070                xSemaphore
+                0x0000000002000074                hd
+                0x000000000200007c                xMotorSemaphore
+                0x0000000002000080                pidSumLimitYaw
+                0x0000000002000082                pidSumLimit
+ .sbss          0x0000000002000084        0xc build/xprintf.o
+                0x0000000002000084                xfunc_in
+                0x000000000200008c                xfunc_out
+ .sbss          0x0000000002000090        0x4 build/mik32_hal_dma.o
+ .sbss          0x0000000002000094        0x4 build/mik32_hal_gpio.o
+                0x0000000002000094                current_irq_line_mux
+ .sbss          0x0000000002000098       0x3c build/tasks.o
+                0x00000000020000d0                pxCurrentTCB
+ .sbss          0x00000000020000d4       0x14 build/timers.o
+ .sbss          0x00000000020000e8        0x8 build/heap_1.o
+ .sbss          0x00000000020000f0        0x8 build/port.o
+                0x00000000020000f0                ullNextTime
+ .sbss          0x00000000020000f8        0x4 build/mik32_qmc5883l.o
+                0x00000000020000f8                QMC5883L_hi2c
+ .sbss          0x00000000020000fc       0x20 build/mik32_bmp280.o
+                0x00000000020000fc                BMP280_hi2c
+ .sbss          0x000000000200011c       0x20 build/mik32_icm42688P.o
+                0x000000000200011c                cyclesRemaining
+                0x0000000002000120                dataInput
+                0x0000000002000128                dataOutput
+                0x0000000002000130                initInput
+                0x0000000002000134                initOutput
+                0x0000000002000138                ICM42688P_hspi
+ .sbss          0x000000000200013c        0x7 build/mik32_msp.o
+                0x000000000200013c                husartMSP
+                0x0000000002000140                gottenMessageLength
+                0x0000000002000141                bufReady
+                0x0000000002000142                bufPointer
+ *fill*         0x0000000002000143        0x1 
+ .sbss          0x0000000002000144        0x4 build/mik32_pid_bf.o
+ .sbss          0x0000000002000148       0x26 build/mik32_mix_bf.o
+                0x0000000002000148                yawMotorsReversed
+                0x000000000200014c                throttleAngleCorrection
+                0x0000000002000150                motorOutputMixSign
+                0x0000000002000154                motorOutputRange
+                0x0000000002000158                motorOutputMin
+                0x000000000200015c                motorRangeMax
+                0x0000000002000160                motorRangeMin
+                0x0000000002000164                motorMixRange
+                0x0000000002000168                throttle
+                0x000000000200016c                currentControlRateProfile
+ *fill*         0x000000000200016e        0x2 
+ .sbss          0x0000000002000170       0x28 build/dshot.o
+                0x0000000002000170                hdma_channel_3
+                0x0000000002000174                hdma_channel_2
+                0x0000000002000178                hdma_channel_1
+                0x000000000200017c                hdma_channel_0
+                0x0000000002000180                hdma
+                0x0000000002000184                channel_4
+                0x0000000002000188                channel_3
+                0x000000000200018c                channel_2
+                0x0000000002000190                channel_1
+                0x0000000002000194                htimer32_2
+ *(.scommon)
+
+.bss            0x00000000020001a0     0x35a0 load address 0x000000008000c680
+ *(.bss .bss.*)
+ .bss           0x00000000020001a0      0x72c build/main.o
+                0x00000000020001a0                motorSignals
+                0x00000000020001b0                pidSums
+                0x00000000020001bc                gyroDataStorage
+                0x0000000002000670                husart
+                0x0000000002000708                hspi0
+                0x0000000002000730                hd_ch_0
+                0x000000000200076c                ch_4
+                0x0000000002000790                ch_3
+                0x00000000020007b4                ch_2
+                0x00000000020007d8                ch_1
+                0x00000000020007fc                ht32_2
+                0x0000000002000818                hd_ch_3
+                0x0000000002000854                hd_ch_2
+                0x0000000002000890                hd_ch_1
+ .bss           0x00000000020008cc        0x0 build/scr_sys.o
+ .bss           0x00000000020008cc        0x0 build/uart_lib.o
+ .bss           0x00000000020008cc        0x0 build/xprintf.o
+ .bss           0x00000000020008cc        0xc build/mik32_hal_scr1_timer.o
+                0x00000000020008cc                HAL_Time_SCR1TIM_Handler
+ .bss           0x00000000020008d8        0x0 build/mik32_hal.o
+ .bss           0x00000000020008d8        0x0 build/mik32_hal_adc.o
+ .bss           0x00000000020008d8        0x0 build/mik32_hal_crc32.o
+ .bss           0x00000000020008d8        0x0 build/mik32_hal_crypto.o
+ .bss           0x00000000020008d8        0x0 build/mik32_hal_dac.o
+ .bss           0x00000000020008d8       0x10 build/mik32_hal_dma.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_gpio.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_i2c.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_irq.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_otp.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_pcc.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_rtc.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_spi.o
+ .bss           0x00000000020008e8        0x0 build/mik32_hal_spifi.o
+ .bss           0x00000000020008e8       0x28 build/mik32_hal_timer16.o
+                0x00000000020008e8                HAL_Time_TIM16_Handler
+ .bss           0x0000000002000910       0x24 build/mik32_hal_timer32.o
+                0x0000000002000910                HAL_Time_TIM32_Handler
+ .bss           0x0000000002000934        0x0 build/mik32_hal_usart.o
+ .bss           0x0000000002000934        0x0 build/croutine.o
+ .bss           0x0000000002000934        0x0 build/event_groups.o
+ .bss           0x0000000002000934        0x0 build/list.o
+ .bss           0x0000000002000934       0x40 build/queue.o
+                0x0000000002000934                xQueueRegistry
+ .bss           0x0000000002000974        0x0 build/stream_buffer.o
+ .bss           0x0000000002000974       0xf0 build/tasks.o
+ .bss           0x0000000002000a64       0x28 build/timers.o
+ .bss           0x0000000002000a8c     0x2400 build/heap_1.o
+ *fill*         0x0000000002002e8c        0x4 
+ .bss           0x0000000002002e90      0x400 build/port.o
+ .bss           0x0000000002003290        0x0 build/mik32_qmc5883l.o
+ .bss           0x0000000002003290        0x0 build/mik32_bmp280.o
+ .bss           0x0000000002003290        0xc build/mik32_icm42688P.o
+                0x0000000002003290                gyroZero
+ .bss           0x000000000200329c      0x200 build/mik32_msp.o
+ .bss           0x000000000200349c        0x0 build/mik32_filters.o
+ .bss           0x000000000200349c      0x128 build/mik32_pid_bf.o
+                0x00000000020034a8                pidRuntime
+                0x0000000002003564                pidData
+                0x00000000020035ac                previousGyroRateDterm
+                0x00000000020035b8                rawSetpoint
+ .bss           0x00000000020035c4        0x0 build/mik32_pilot.o
+ .bss           0x00000000020035c4       0x50 build/mik32_mix_bf.o
+                0x00000000020035c4                mixerRuntime
+ .bss           0x0000000002003614      0x120 build/dshot.o
+                0x0000000002003614                motor1DMAbuffer
+                0x000000000200365c                motor2DMAbuffer
+                0x00000000020036a4                motor3DMAbuffer
+                0x00000000020036ec                motor4DMAbuffer
+ .bss           0x0000000002003734        0x0 build/crt0.o
+ .bss           0x0000000002003734        0x0 build/portASM.o
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_divdi3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_udivdi3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clz.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)
+ .bss           0x0000000002003734        0x0 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memset.o)
+                0x0000000002003740                . = ALIGN (CL_SIZE)
+ *fill*         0x0000000002003734        0xc 
+                0x0000000002003740                PROVIDE (__BSS_END__ = .)
+                0x0000000002003740                _end = .
+                [!provide]                        PROVIDE (__end = .)
+
+.stack          0x0000000002003c00      0x400 load address 0x00000000800100e0
+ FILL mask 0x00000000
+                [!provide]                        PROVIDE (__STACK_START__ = .)
+                0x0000000002004000                . = (. + STACK_SIZE)
+ *fill*         0x0000000002003c00      0x400 00000000
+                0x0000000002004000                PROVIDE (__C_STACK_TOP__ = .)
+                [!provide]                        PROVIDE (__STACK_END__ = .)
+
+/DISCARD/
+ *(.eh_frame .eh_frame.*)
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libstdc++_nano.a
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a
+START GROUP
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a
+LOAD d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a
+END GROUP
+OUTPUT(build/owleye.elf elf32-littleriscv)
+
+.debug_info     0x0000000000000000    0x1da80
+ .debug_info    0x0000000000000000     0x1c93 build/main.o
+ .debug_info    0x0000000000001c93      0x28c build/scr_sys.o
+ .debug_info    0x0000000000001f1f      0x8b1 build/uart_lib.o
+ .debug_info    0x00000000000027d0      0x76e build/xprintf.o
+ .debug_info    0x0000000000002f3e      0x3b3 build/mik32_hal_scr1_timer.o
+ .debug_info    0x00000000000032f1      0x301 build/mik32_hal.o
+ .debug_info    0x00000000000035f2      0x906 build/mik32_hal_adc.o
+ .debug_info    0x0000000000003ef8      0x56b build/mik32_hal_crc32.o
+ .debug_info    0x0000000000004463      0x6a0 build/mik32_hal_crypto.o
+ .debug_info    0x0000000000004b03      0x8af build/mik32_hal_dac.o
+ .debug_info    0x00000000000053b2      0xa46 build/mik32_hal_dma.o
+ .debug_info    0x0000000000005df8      0xb97 build/mik32_hal_gpio.o
+ .debug_info    0x000000000000698f     0x2054 build/mik32_hal_i2c.o
+ .debug_info    0x00000000000089e3      0x24c build/mik32_hal_irq.o
+ .debug_info    0x0000000000008c2f      0x88c build/mik32_hal_otp.o
+ .debug_info    0x00000000000094bb      0x7f7 build/mik32_hal_pcc.o
+ .debug_info    0x0000000000009cb2      0xb0d build/mik32_hal_rtc.o
+ .debug_info    0x000000000000a7bf      0xc26 build/mik32_hal_spi.o
+ .debug_info    0x000000000000b3e5      0xb3a build/mik32_hal_spifi.o
+ .debug_info    0x000000000000bf1f     0x1dfc build/mik32_hal_timer16.o
+ .debug_info    0x000000000000dd1b     0x1690 build/mik32_hal_timer32.o
+ .debug_info    0x000000000000f3ab     0x1149 build/mik32_hal_usart.o
+ .debug_info    0x00000000000104f4       0x72 build/croutine.o
+ .debug_info    0x0000000000010566      0x991 build/event_groups.o
+ .debug_info    0x0000000000010ef7      0x2c8 build/list.o
+ .debug_info    0x00000000000111bf     0x1b13 build/queue.o
+ .debug_info    0x0000000000012cd2     0x146a build/stream_buffer.o
+ .debug_info    0x000000000001413c     0x20c7 build/tasks.o
+ .debug_info    0x0000000000016203     0x1282 build/timers.o
+ .debug_info    0x0000000000017485      0x203 build/heap_1.o
+ .debug_info    0x0000000000017688      0x226 build/port.o
+ .debug_info    0x00000000000178ae      0xb77 build/mik32_qmc5883l.o
+ .debug_info    0x0000000000018425      0xe91 build/mik32_bmp280.o
+ .debug_info    0x00000000000192b6      0x89a build/mik32_icm42688P.o
+ .debug_info    0x0000000000019b50      0x99f build/mik32_msp.o
+ .debug_info    0x000000000001a4ef      0x4c8 build/mik32_filters.o
+ .debug_info    0x000000000001a9b7      0xfac build/mik32_pid_bf.o
+ .debug_info    0x000000000001b963       0x7c build/mik32_pilot.o
+ .debug_info    0x000000000001b9df      0xd7c build/mik32_mix_bf.o
+ .debug_info    0x000000000001c75b     0x12dd build/dshot.o
+ .debug_info    0x000000000001da38       0x22 build/crt0.o
+ .debug_info    0x000000000001da5a       0x26 build/portASM.o
+
+.debug_abbrev   0x0000000000000000     0x56d3
+ .debug_abbrev  0x0000000000000000      0x2d2 build/main.o
+ .debug_abbrev  0x00000000000002d2      0x13d build/scr_sys.o
+ .debug_abbrev  0x000000000000040f      0x250 build/uart_lib.o
+ .debug_abbrev  0x000000000000065f      0x2b2 build/xprintf.o
+ .debug_abbrev  0x0000000000000911      0x17e build/mik32_hal_scr1_timer.o
+ .debug_abbrev  0x0000000000000a8f      0x15c build/mik32_hal.o
+ .debug_abbrev  0x0000000000000beb      0x230 build/mik32_hal_adc.o
+ .debug_abbrev  0x0000000000000e1b      0x1bd build/mik32_hal_crc32.o
+ .debug_abbrev  0x0000000000000fd8      0x1b5 build/mik32_hal_crypto.o
+ .debug_abbrev  0x000000000000118d      0x19e build/mik32_hal_dac.o
+ .debug_abbrev  0x000000000000132b      0x1ff build/mik32_hal_dma.o
+ .debug_abbrev  0x000000000000152a      0x1ee build/mik32_hal_gpio.o
+ .debug_abbrev  0x0000000000001718      0x363 build/mik32_hal_i2c.o
+ .debug_abbrev  0x0000000000001a7b      0x10e build/mik32_hal_irq.o
+ .debug_abbrev  0x0000000000001b89      0x1ec build/mik32_hal_otp.o
+ .debug_abbrev  0x0000000000001d75      0x224 build/mik32_hal_pcc.o
+ .debug_abbrev  0x0000000000001f99      0x25f build/mik32_hal_rtc.o
+ .debug_abbrev  0x00000000000021f8      0x316 build/mik32_hal_spi.o
+ .debug_abbrev  0x000000000000250e      0x253 build/mik32_hal_spifi.o
+ .debug_abbrev  0x0000000000002761      0x3a4 build/mik32_hal_timer16.o
+ .debug_abbrev  0x0000000000002b05      0x3c3 build/mik32_hal_timer32.o
+ .debug_abbrev  0x0000000000002ec8      0x324 build/mik32_hal_usart.o
+ .debug_abbrev  0x00000000000031ec       0x26 build/croutine.o
+ .debug_abbrev  0x0000000000003212      0x210 build/event_groups.o
+ .debug_abbrev  0x0000000000003422      0x111 build/list.o
+ .debug_abbrev  0x0000000000003533      0x302 build/queue.o
+ .debug_abbrev  0x0000000000003835      0x2ae build/stream_buffer.o
+ .debug_abbrev  0x0000000000003ae3      0x3d1 build/tasks.o
+ .debug_abbrev  0x0000000000003eb4      0x306 build/timers.o
+ .debug_abbrev  0x00000000000041ba      0x16c build/heap_1.o
+ .debug_abbrev  0x0000000000004326      0x10c build/port.o
+ .debug_abbrev  0x0000000000004432      0x1ce build/mik32_qmc5883l.o
+ .debug_abbrev  0x0000000000004600      0x20d build/mik32_bmp280.o
+ .debug_abbrev  0x000000000000480d      0x1af build/mik32_icm42688P.o
+ .debug_abbrev  0x00000000000049bc      0x263 build/mik32_msp.o
+ .debug_abbrev  0x0000000000004c1f      0x1bb build/mik32_filters.o
+ .debug_abbrev  0x0000000000004dda      0x308 build/mik32_pid_bf.o
+ .debug_abbrev  0x00000000000050e2       0x70 build/mik32_pilot.o
+ .debug_abbrev  0x0000000000005152      0x2ab build/mik32_mix_bf.o
+ .debug_abbrev  0x00000000000053fd      0x2b0 build/dshot.o
+ .debug_abbrev  0x00000000000056ad       0x12 build/crt0.o
+ .debug_abbrev  0x00000000000056bf       0x14 build/portASM.o
+
+.debug_loc      0x0000000000000000    0x10892
+ .debug_loc     0x0000000000000000      0x111 build/main.o
+ .debug_loc     0x0000000000000111       0x1e build/scr_sys.o
+ .debug_loc     0x000000000000012f      0x3f8 build/uart_lib.o
+ .debug_loc     0x0000000000000527      0xbc8 build/xprintf.o
+ .debug_loc     0x00000000000010ef       0x7e build/mik32_hal_scr1_timer.o
+ .debug_loc     0x000000000000116d      0x15e build/mik32_hal.o
+ .debug_loc     0x00000000000012cb      0x17b build/mik32_hal_adc.o
+ .debug_loc     0x0000000000001446      0x255 build/mik32_hal_crc32.o
+ .debug_loc     0x000000000000169b      0x4a0 build/mik32_hal_crypto.o
+ .debug_loc     0x0000000000001b3b      0x141 build/mik32_hal_dac.o
+ .debug_loc     0x0000000000001c7c      0x340 build/mik32_hal_dma.o
+ .debug_loc     0x0000000000001fbc      0x3b4 build/mik32_hal_gpio.o
+ .debug_loc     0x0000000000002370     0x1850 build/mik32_hal_i2c.o
+ .debug_loc     0x0000000000003bc0      0x781 build/mik32_hal_otp.o
+ .debug_loc     0x0000000000004341      0x765 build/mik32_hal_pcc.o
+ .debug_loc     0x0000000000004aa6     0x1479 build/mik32_hal_rtc.o
+ .debug_loc     0x0000000000005f1f      0x4b9 build/mik32_hal_spi.o
+ .debug_loc     0x00000000000063d8      0x32c build/mik32_hal_spifi.o
+ .debug_loc     0x0000000000006704      0xf8e build/mik32_hal_timer16.o
+ .debug_loc     0x0000000000007692      0xb6b build/mik32_hal_timer32.o
+ .debug_loc     0x00000000000081fd      0x934 build/mik32_hal_usart.o
+ .debug_loc     0x0000000000008b31      0x992 build/event_groups.o
+ .debug_loc     0x00000000000094c3       0x5d build/list.o
+ .debug_loc     0x0000000000009520     0x1484 build/queue.o
+ .debug_loc     0x000000000000a9a4     0x1544 build/stream_buffer.o
+ .debug_loc     0x000000000000bee8     0x1706 build/tasks.o
+ .debug_loc     0x000000000000d5ee      0xbe9 build/timers.o
+ .debug_loc     0x000000000000e1d7       0x75 build/heap_1.o
+ .debug_loc     0x000000000000e24c      0x148 build/mik32_qmc5883l.o
+ .debug_loc     0x000000000000e394      0x464 build/mik32_bmp280.o
+ .debug_loc     0x000000000000e7f8      0x1ef build/mik32_icm42688P.o
+ .debug_loc     0x000000000000e9e7      0x1eb build/mik32_msp.o
+ .debug_loc     0x000000000000ebd2      0x37e build/mik32_filters.o
+ .debug_loc     0x000000000000ef50      0x840 build/mik32_pid_bf.o
+ .debug_loc     0x000000000000f790      0xa76 build/mik32_mix_bf.o
+ .debug_loc     0x0000000000010206      0x68c build/dshot.o
+
+.debug_aranges  0x0000000000000000      0x548
+ .debug_aranges
+                0x0000000000000000       0x28 build/main.o
+ .debug_aranges
+                0x0000000000000028       0x20 build/scr_sys.o
+ .debug_aranges
+                0x0000000000000048       0x20 build/uart_lib.o
+ .debug_aranges
+                0x0000000000000068       0x20 build/xprintf.o
+ .debug_aranges
+                0x0000000000000088       0x20 build/mik32_hal_scr1_timer.o
+ .debug_aranges
+                0x00000000000000a8       0x20 build/mik32_hal.o
+ .debug_aranges
+                0x00000000000000c8       0x20 build/mik32_hal_adc.o
+ .debug_aranges
+                0x00000000000000e8       0x20 build/mik32_hal_crc32.o
+ .debug_aranges
+                0x0000000000000108       0x20 build/mik32_hal_crypto.o
+ .debug_aranges
+                0x0000000000000128       0x20 build/mik32_hal_dac.o
+ .debug_aranges
+                0x0000000000000148       0x20 build/mik32_hal_dma.o
+ .debug_aranges
+                0x0000000000000168       0x20 build/mik32_hal_gpio.o
+ .debug_aranges
+                0x0000000000000188       0x20 build/mik32_hal_i2c.o
+ .debug_aranges
+                0x00000000000001a8       0x20 build/mik32_hal_irq.o
+ .debug_aranges
+                0x00000000000001c8       0x20 build/mik32_hal_otp.o
+ .debug_aranges
+                0x00000000000001e8       0x20 build/mik32_hal_pcc.o
+ .debug_aranges
+                0x0000000000000208       0x20 build/mik32_hal_rtc.o
+ .debug_aranges
+                0x0000000000000228       0x20 build/mik32_hal_spi.o
+ .debug_aranges
+                0x0000000000000248       0x20 build/mik32_hal_spifi.o
+ .debug_aranges
+                0x0000000000000268       0x20 build/mik32_hal_timer16.o
+ .debug_aranges
+                0x0000000000000288       0x20 build/mik32_hal_timer32.o
+ .debug_aranges
+                0x00000000000002a8       0x20 build/mik32_hal_usart.o
+ .debug_aranges
+                0x00000000000002c8       0x18 build/croutine.o
+ .debug_aranges
+                0x00000000000002e0       0x20 build/event_groups.o
+ .debug_aranges
+                0x0000000000000300       0x20 build/list.o
+ .debug_aranges
+                0x0000000000000320       0x20 build/queue.o
+ .debug_aranges
+                0x0000000000000340       0x20 build/stream_buffer.o
+ .debug_aranges
+                0x0000000000000360       0x20 build/tasks.o
+ .debug_aranges
+                0x0000000000000380       0x20 build/timers.o
+ .debug_aranges
+                0x00000000000003a0       0x20 build/heap_1.o
+ .debug_aranges
+                0x00000000000003c0       0x20 build/port.o
+ .debug_aranges
+                0x00000000000003e0       0x20 build/mik32_qmc5883l.o
+ .debug_aranges
+                0x0000000000000400       0x20 build/mik32_bmp280.o
+ .debug_aranges
+                0x0000000000000420       0x20 build/mik32_icm42688P.o
+ .debug_aranges
+                0x0000000000000440       0x20 build/mik32_msp.o
+ .debug_aranges
+                0x0000000000000460       0x20 build/mik32_filters.o
+ .debug_aranges
+                0x0000000000000480       0x20 build/mik32_pid_bf.o
+ .debug_aranges
+                0x00000000000004a0       0x20 build/mik32_pilot.o
+ .debug_aranges
+                0x00000000000004c0       0x20 build/mik32_mix_bf.o
+ .debug_aranges
+                0x00000000000004e0       0x20 build/dshot.o
+ .debug_aranges
+                0x0000000000000500       0x28 build/crt0.o
+ .debug_aranges
+                0x0000000000000528       0x20 build/portASM.o
+
+.debug_ranges   0x0000000000000000      0xc10
+ .debug_ranges  0x0000000000000000       0x18 build/main.o
+ .debug_ranges  0x0000000000000018       0x30 build/uart_lib.o
+ .debug_ranges  0x0000000000000048       0x18 build/xprintf.o
+ .debug_ranges  0x0000000000000060       0x18 build/mik32_hal_adc.o
+ .debug_ranges  0x0000000000000078       0x18 build/mik32_hal_crc32.o
+ .debug_ranges  0x0000000000000090       0xd8 build/mik32_hal_crypto.o
+ .debug_ranges  0x0000000000000168       0xb8 build/mik32_hal_i2c.o
+ .debug_ranges  0x0000000000000220       0x78 build/mik32_hal_otp.o
+ .debug_ranges  0x0000000000000298       0x80 build/mik32_hal_pcc.o
+ .debug_ranges  0x0000000000000318       0x18 build/mik32_hal_spi.o
+ .debug_ranges  0x0000000000000330       0x30 build/mik32_hal_spifi.o
+ .debug_ranges  0x0000000000000360       0x48 build/mik32_hal_timer16.o
+ .debug_ranges  0x00000000000003a8       0x78 build/mik32_hal_timer32.o
+ .debug_ranges  0x0000000000000420       0x70 build/mik32_hal_usart.o
+ .debug_ranges  0x0000000000000490       0x48 build/event_groups.o
+ .debug_ranges  0x00000000000004d8      0x138 build/queue.o
+ .debug_ranges  0x0000000000000610       0xb8 build/stream_buffer.o
+ .debug_ranges  0x00000000000006c8      0x180 build/tasks.o
+ .debug_ranges  0x0000000000000848       0xa0 build/timers.o
+ .debug_ranges  0x00000000000008e8       0x18 build/port.o
+ .debug_ranges  0x0000000000000900       0x28 build/mik32_icm42688P.o
+ .debug_ranges  0x0000000000000928       0x58 build/mik32_msp.o
+ .debug_ranges  0x0000000000000980       0x30 build/mik32_filters.o
+ .debug_ranges  0x00000000000009b0      0x100 build/mik32_pid_bf.o
+ .debug_ranges  0x0000000000000ab0      0x128 build/mik32_mix_bf.o
+ .debug_ranges  0x0000000000000bd8       0x18 build/dshot.o
+ .debug_ranges  0x0000000000000bf0       0x20 build/crt0.o
+
+.debug_line     0x0000000000000000    0x22855
+ .debug_line    0x0000000000000000      0x95a build/main.o
+ .debug_line    0x000000000000095a      0x32a build/scr_sys.o
+ .debug_line    0x0000000000000c84      0x6d1 build/uart_lib.o
+ .debug_line    0x0000000000001355     0x122c build/xprintf.o
+ .debug_line    0x0000000000002581      0x49f build/mik32_hal_scr1_timer.o
+ .debug_line    0x0000000000002a20      0x33b build/mik32_hal.o
+ .debug_line    0x0000000000002d5b      0x849 build/mik32_hal_adc.o
+ .debug_line    0x00000000000035a4      0x6d0 build/mik32_hal_crc32.o
+ .debug_line    0x0000000000003c74      0xb55 build/mik32_hal_crypto.o
+ .debug_line    0x00000000000047c9      0x637 build/mik32_hal_dac.o
+ .debug_line    0x0000000000004e00      0x9e4 build/mik32_hal_dma.o
+ .debug_line    0x00000000000057e4      0x849 build/mik32_hal_gpio.o
+ .debug_line    0x000000000000602d     0x30f2 build/mik32_hal_i2c.o
+ .debug_line    0x000000000000911f      0x2c1 build/mik32_hal_irq.o
+ .debug_line    0x00000000000093e0      0xe32 build/mik32_hal_otp.o
+ .debug_line    0x000000000000a212      0xb94 build/mik32_hal_pcc.o
+ .debug_line    0x000000000000ada6      0xc28 build/mik32_hal_rtc.o
+ .debug_line    0x000000000000b9ce      0xe50 build/mik32_hal_spi.o
+ .debug_line    0x000000000000c81e      0x72c build/mik32_hal_spifi.o
+ .debug_line    0x000000000000cf4a     0x22ac build/mik32_hal_timer16.o
+ .debug_line    0x000000000000f1f6     0x1746 build/mik32_hal_timer32.o
+ .debug_line    0x000000000001093c     0x17a7 build/mik32_hal_usart.o
+ .debug_line    0x00000000000120e3       0x1d build/croutine.o
+ .debug_line    0x0000000000012100      0xd9b build/event_groups.o
+ .debug_line    0x0000000000012e9b      0x4e9 build/list.o
+ .debug_line    0x0000000000013384     0x2885 build/queue.o
+ .debug_line    0x0000000000015c09     0x1c67 build/stream_buffer.o
+ .debug_line    0x0000000000017870     0x39b9 build/tasks.o
+ .debug_line    0x000000000001b229     0x11f4 build/timers.o
+ .debug_line    0x000000000001c41d      0x3fd build/heap_1.o
+ .debug_line    0x000000000001c81a      0x2f7 build/port.o
+ .debug_line    0x000000000001cb11      0x412 build/mik32_qmc5883l.o
+ .debug_line    0x000000000001cf23      0x9a4 build/mik32_bmp280.o
+ .debug_line    0x000000000001d8c7      0x912 build/mik32_icm42688P.o
+ .debug_line    0x000000000001e1d9      0xaf7 build/mik32_msp.o
+ .debug_line    0x000000000001ecd0      0x450 build/mik32_filters.o
+ .debug_line    0x000000000001f120     0x1346 build/mik32_pid_bf.o
+ .debug_line    0x0000000000020466       0x61 build/mik32_pilot.o
+ .debug_line    0x00000000000204c7      0xe87 build/mik32_mix_bf.o
+ .debug_line    0x000000000002134e     0x1092 build/dshot.o
+ .debug_line    0x00000000000223e0       0xd4 build/crt0.o
+ .debug_line    0x00000000000224b4      0x3a1 build/portASM.o
+
+.debug_str      0x0000000000000000     0x9cef
+ .debug_str     0x0000000000000000     0x1a3a build/main.o
+                                       0x1d99 (size before relaxing)
+ .debug_str     0x0000000000001a3a       0xfe build/scr_sys.o
+                                        0x2aa (size before relaxing)
+ .debug_str     0x0000000000001b38      0x162 build/uart_lib.o
+                                        0x6d2 (size before relaxing)
+ .debug_str     0x0000000000001c9a       0xb1 build/xprintf.o
+                                        0x1c1 (size before relaxing)
+ .debug_str     0x0000000000001d4b      0x10f build/mik32_hal_scr1_timer.o
+                                        0x3ad (size before relaxing)
+ .debug_str     0x0000000000001e5a       0xc4 build/mik32_hal.o
+                                        0x308 (size before relaxing)
+ .debug_str     0x0000000000001f1e      0x29e build/mik32_hal_adc.o
+                                        0x7cd (size before relaxing)
+ .debug_str     0x00000000000021bc      0x157 build/mik32_hal_crc32.o
+                                        0x3e1 (size before relaxing)
+ .debug_str     0x0000000000002313      0x1cf build/mik32_hal_crypto.o
+                                        0x44f (size before relaxing)
+ .debug_str     0x00000000000024e2      0x1ad build/mik32_hal_dac.o
+                                        0x7eb (size before relaxing)
+ .debug_str     0x000000000000268f      0x20a build/mik32_hal_dma.o
+                                        0xb5a (size before relaxing)
+ .debug_str     0x0000000000002899     0x11a2 build/mik32_hal_gpio.o
+                                       0x1778 (size before relaxing)
+ .debug_str     0x0000000000003a3b      0x9f9 build/mik32_hal_i2c.o
+                                       0x1631 (size before relaxing)
+ .debug_str     0x0000000000004434       0xae build/mik32_hal_irq.o
+                                        0x2a9 (size before relaxing)
+ .debug_str     0x00000000000044e2      0x252 build/mik32_hal_otp.o
+                                        0x4ea (size before relaxing)
+ .debug_str     0x0000000000004734      0x1cf build/mik32_hal_pcc.o
+                                        0x89e (size before relaxing)
+ .debug_str     0x0000000000004903      0x281 build/mik32_hal_rtc.o
+                                        0x4fe (size before relaxing)
+ .debug_str     0x0000000000004b84      0x201 build/mik32_hal_spi.o
+                                        0x98d (size before relaxing)
+ .debug_str     0x0000000000004d85      0x62b build/mik32_hal_spifi.o
+                                        0xd38 (size before relaxing)
+ .debug_str     0x00000000000053b0      0xe15 build/mik32_hal_timer16.o
+                                       0x164c (size before relaxing)
+ .debug_str     0x00000000000061c5      0x52f build/mik32_hal_timer32.o
+                                        0xfed (size before relaxing)
+ .debug_str     0x00000000000066f4      0x310 build/mik32_hal_usart.o
+                                        0xc80 (size before relaxing)
+ .debug_str     0x0000000000006a04       0x14 build/croutine.o
+                                        0x15d (size before relaxing)
+ .debug_str     0x0000000000006a18      0x3ef build/event_groups.o
+                                        0x5c4 (size before relaxing)
+ .debug_str     0x0000000000006e07       0x8d build/list.o
+                                        0x2ac (size before relaxing)
+ .debug_str     0x0000000000006e94      0x6bb build/queue.o
+                                        0xa68 (size before relaxing)
+ .debug_str     0x000000000000754f      0x4c8 build/stream_buffer.o
+                                        0x80f (size before relaxing)
+ .debug_str     0x0000000000007a17      0x841 build/tasks.o
+                                        0xed8 (size before relaxing)
+ .debug_str     0x0000000000008258      0x4c7 build/timers.o
+                                        0x91e (size before relaxing)
+ .debug_str     0x000000000000871f       0x7e build/heap_1.o
+                                        0x25e (size before relaxing)
+ .debug_str     0x000000000000879d       0x9e build/port.o
+                                        0x2a3 (size before relaxing)
+ .debug_str     0x000000000000883b       0xac build/mik32_qmc5883l.o
+                                        0xed9 (size before relaxing)
+ .debug_str     0x00000000000088e7      0x1af build/mik32_bmp280.o
+                                        0xffa (size before relaxing)
+ .debug_str     0x0000000000008a96      0x142 build/mik32_icm42688P.o
+                                        0x57a (size before relaxing)
+ .debug_str     0x0000000000008bd8      0x14e build/mik32_msp.o
+                                        0x7a8 (size before relaxing)
+ .debug_str     0x0000000000008d26      0x13c build/mik32_filters.o
+                                        0x217 (size before relaxing)
+ .debug_str     0x0000000000008e62      0x677 build/mik32_pid_bf.o
+                                        0x948 (size before relaxing)
+ .debug_str     0x00000000000094d9       0x2f build/mik32_pilot.o
+                                         0xf6 (size before relaxing)
+ .debug_str     0x0000000000009508      0x5ac build/mik32_mix_bf.o
+                                        0x834 (size before relaxing)
+ .debug_str     0x0000000000009ab4      0x1f9 build/dshot.o
+                                       0x1155 (size before relaxing)
+ .debug_str     0x0000000000009cad       0x1b build/crt0.o
+                                         0x33 (size before relaxing)
+ .debug_str     0x0000000000009cc8       0x27 build/portASM.o
+                                         0x4b (size before relaxing)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 build/main.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 build/scr_sys.o
+ .comment       0x0000000000000033       0x34 build/uart_lib.o
+ .comment       0x0000000000000033       0x34 build/xprintf.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_scr1_timer.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_adc.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_crc32.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_crypto.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_dac.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_dma.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_gpio.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_i2c.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_irq.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_otp.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_pcc.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_rtc.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_spi.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_spifi.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_timer16.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_timer32.o
+ .comment       0x0000000000000033       0x34 build/mik32_hal_usart.o
+ .comment       0x0000000000000033       0x34 build/croutine.o
+ .comment       0x0000000000000033       0x34 build/event_groups.o
+ .comment       0x0000000000000033       0x34 build/list.o
+ .comment       0x0000000000000033       0x34 build/queue.o
+ .comment       0x0000000000000033       0x34 build/stream_buffer.o
+ .comment       0x0000000000000033       0x34 build/tasks.o
+ .comment       0x0000000000000033       0x34 build/timers.o
+ .comment       0x0000000000000033       0x34 build/heap_1.o
+ .comment       0x0000000000000033       0x34 build/port.o
+ .comment       0x0000000000000033       0x34 build/mik32_qmc5883l.o
+ .comment       0x0000000000000033       0x34 build/mik32_bmp280.o
+ .comment       0x0000000000000033       0x34 build/mik32_icm42688P.o
+ .comment       0x0000000000000033       0x34 build/mik32_msp.o
+ .comment       0x0000000000000033       0x34 build/mik32_filters.o
+ .comment       0x0000000000000033       0x34 build/mik32_pid_bf.o
+ .comment       0x0000000000000033       0x34 build/mik32_pilot.o
+ .comment       0x0000000000000033       0x34 build/mik32_mix_bf.o
+ .comment       0x0000000000000033       0x34 build/dshot.o
+
+.debug_frame    0x0000000000000000     0x47c8
+ .debug_frame   0x0000000000000000      0x110 build/main.o
+ .debug_frame   0x0000000000000110       0x68 build/scr_sys.o
+ .debug_frame   0x0000000000000178      0x16c build/uart_lib.o
+ .debug_frame   0x00000000000002e4      0x1f0 build/xprintf.o
+ .debug_frame   0x00000000000004d4       0xb8 build/mik32_hal_scr1_timer.o
+ .debug_frame   0x000000000000058c       0xbc build/mik32_hal.o
+ .debug_frame   0x0000000000000648      0x158 build/mik32_hal_adc.o
+ .debug_frame   0x00000000000007a0      0x124 build/mik32_hal_crc32.o
+ .debug_frame   0x00000000000008c4      0x128 build/mik32_hal_crypto.o
+ .debug_frame   0x00000000000009ec       0xf4 build/mik32_hal_dac.o
+ .debug_frame   0x0000000000000ae0      0x150 build/mik32_hal_dma.o
+ .debug_frame   0x0000000000000c30       0xbc build/mik32_hal_gpio.o
+ .debug_frame   0x0000000000000cec      0x584 build/mik32_hal_i2c.o
+ .debug_frame   0x0000000000001270       0x90 build/mik32_hal_irq.o
+ .debug_frame   0x0000000000001300      0x1d4 build/mik32_hal_otp.o
+ .debug_frame   0x00000000000014d4      0x11c build/mik32_hal_pcc.o
+ .debug_frame   0x00000000000015f0      0x154 build/mik32_hal_rtc.o
+ .debug_frame   0x0000000000001744      0x188 build/mik32_hal_spi.o
+ .debug_frame   0x00000000000018cc       0xa8 build/mik32_hal_spifi.o
+ .debug_frame   0x0000000000001974      0x5f8 build/mik32_hal_timer16.o
+ .debug_frame   0x0000000000001f6c      0x3e8 build/mik32_hal_timer32.o
+ .debug_frame   0x0000000000002354      0x2b8 build/mik32_hal_usart.o
+ .debug_frame   0x000000000000260c      0x158 build/event_groups.o
+ .debug_frame   0x0000000000002764       0x60 build/list.o
+ .debug_frame   0x00000000000027c4      0x43c build/queue.o
+ .debug_frame   0x0000000000002c00      0x2ec build/stream_buffer.o
+ .debug_frame   0x0000000000002eec      0x6f0 build/tasks.o
+ .debug_frame   0x00000000000035dc      0x298 build/timers.o
+ .debug_frame   0x0000000000003874       0x64 build/heap_1.o
+ .debug_frame   0x00000000000038d8       0x3c build/port.o
+ .debug_frame   0x0000000000003914       0x98 build/mik32_qmc5883l.o
+ .debug_frame   0x00000000000039ac       0xf4 build/mik32_bmp280.o
+ .debug_frame   0x0000000000003aa0       0xc8 build/mik32_icm42688P.o
+ .debug_frame   0x0000000000003b68       0xdc build/mik32_msp.o
+ .debug_frame   0x0000000000003c44      0x150 build/mik32_filters.o
+ .debug_frame   0x0000000000003d94      0x378 build/mik32_pid_bf.o
+ .debug_frame   0x000000000000410c       0x20 build/mik32_pilot.o
+ .debug_frame   0x000000000000412c      0x258 build/mik32_mix_bf.o
+ .debug_frame   0x0000000000004384      0x1c8 build/dshot.o
+ .debug_frame   0x000000000000454c       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(_clzsi2.o)
+ .debug_frame   0x000000000000456c       0x40 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(addsf3.o)
+ .debug_frame   0x00000000000045ac       0x50 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(divsf3.o)
+ .debug_frame   0x00000000000045fc       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(eqsf2.o)
+ .debug_frame   0x000000000000461c       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(gesf2.o)
+ .debug_frame   0x000000000000463c       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(lesf2.o)
+ .debug_frame   0x000000000000465c       0x50 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000000000046ac       0x3c d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(subsf3.o)
+ .debug_frame   0x00000000000046e8       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixsfsi.o)
+ .debug_frame   0x0000000000004708       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(fixunssfsi.o)
+ .debug_frame   0x0000000000004728       0x38 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatsisf.o)
+ .debug_frame   0x0000000000004760       0x48 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/rv32imc/ilp32\libgcc.a(floatunsisf.o)
+ .debug_frame   0x00000000000047a8       0x20 d:/sapr/xpack-riscv-none-embed-gcc-10.2.0-1.1-win32-x64/xpack-riscv-none-embed-gcc-10.2.0-1.1/bin/../lib/gcc/riscv-none-embed/10.2.0/../../../../riscv-none-embed/lib/rv32imc/ilp32\libc_nano.a(lib_a-memcpy.o)

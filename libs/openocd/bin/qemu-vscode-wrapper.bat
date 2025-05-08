@@ -1,0 +1,7 @@
+:: OpenDebugAD7 is a DAP server for VS Code that starts GDB and GDBserver.
+:: OpenDebugAD7 expects GDBserver to print some kind of a message to identify
+:: that the server is ready. QEMU doesn't do this, so we need to this script to
+:: print an empty line, which is enough for the OpenDebugAD7 to move forward and
+:: start the client.
+echo
+%*
