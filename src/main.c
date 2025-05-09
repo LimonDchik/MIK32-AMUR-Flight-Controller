@@ -25,6 +25,8 @@
 #include "mik32_mix_bf.h"
 #include "dshot.h"
 #include "mik32_msp.h"
+#include "mik32_bmp280.h"
+#include "mik32_qmc5883l.h"
 
 #define MILLISECONDS configTICK_RATE_HZ/1000
 #define XYZ_AXIS_COUNT 3
@@ -92,7 +94,7 @@ int main()
 	HAL_GPIO_PinConfig(GPIO_2, GPIO_PIN_7, HAL_GPIO_MODE_GPIO_OUTPUT, HAL_GPIO_PULL_UP, HAL_GPIO_DS_2MA);
 	
 #if defined(FLIGHT)
-    //xTaskCreate ( getDataTask, "getDataTask", 128, ( void * ) 2, tskIDLE_PRIORITY + 1 , NULL );
+    xTaskCreate ( getDataTask, "getDataTask", 128, ( void * ) 2, tskIDLE_PRIORITY + 1 , NULL );
 #endif    
 	xTaskCreate ( PIDTask, "PIDTask", 128, ( void * ) 1, tskIDLE_PRIORITY + 1 , NULL );
 	xTaskCreate ( mixTask, "mixTask", 128, ( void * ) 1, tskIDLE_PRIORITY + 1 , NULL );
