@@ -34,7 +34,7 @@ C_SOURCES = $(wildcard $(SRC_DIR)/*.c) \
 						$(SRC_DIR)/PID/mik32_pid_bf.c \
 						$(SRC_DIR)/Pilot/mik32_pilot.c \
 						$(SRC_DIR)/Mixers/mik32_mix_bf.c \
-						$(SRC_DIR)/drivers/Motors/dshot.c \
+						$(SRC_DIR)/drivers/Motors/mik32_dshot.c \
 
 CPP_SOURCES = $(wildcard $(SRC_DIR)/*.cpp)
 
