@@ -26,8 +26,8 @@ C_SOURCES = $(wildcard $(SRC_DIR)/*.c) \
             $(wildcard $(FreeRTOS_DIR)/*.c) \
             $(wildcard $(FreeRTOS_DIR)/portable/MemMang/*.c) \
             $(wildcard $(FreeRTOS_DIR)/portable/GCC/RISC-V/*.c) \
-						$(SRC_DIR)/drivers/BMP280/mik32_qmc5883l.c \
-						$(SRC_DIR)/drivers/QMC5883L/mik32_bmp280.c \
+						$(SRC_DIR)/drivers/BMP280/mik32_bmp280.c \
+						$(SRC_DIR)/drivers/QMC5883L/mik32_qmc5883l.c \
 						$(SRC_DIR)/drivers/ICM42688P/mik32_icm42688P.c \
 						$(SRC_DIR)/MSP/mik32_msp.c \
 						$(SRC_DIR)/Filters/mik32_filters.c \
