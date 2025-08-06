@@ -20,10 +20,10 @@ volatile uint8_t DSHOT_Timer_Top;
 volatile uint8_t DSHOT_OCR_correct;
 
 //DMA буфферы
-volatile uint32_t OCR_codes_Ch0[] = {0, 0, 0, 0, 0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
-volatile uint32_t OCR_codes_Ch1[] = {0, 0, 0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
-volatile uint32_t OCR_codes_Ch2[] = {0, 0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
-volatile uint32_t OCR_codes_Ch3[] = {0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
+volatile uint32_t OCR_codes_Ch0[] = {0, 0, 0, 0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
+volatile uint32_t OCR_codes_Ch1[] = {0, 0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
+volatile uint32_t OCR_codes_Ch2[] = {0, 0, 0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
+volatile uint32_t OCR_codes_Ch3[] = {0, 87, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 80, 160, 0, 0};
 
 //Функции инициализации
 void DSHOT_timer_init();
@@ -100,7 +100,9 @@ void DSHOT_timer_init() {
     htimer32_channel1.OCR = DSHOT_zero;
     htimer32_channel1.Noise = TIMER32_CHANNEL_FILTER_OFF;
     HAL_Timer32_Channel_Init(&htimer32_channel1);
-
+	
+	//Таймер 2 необходим для своевременного ответа
+	//на запросы последних двух каналов DMA
     htimer32_2.Instance = TIMER32_2;
     htimer32_2.Top = DSHOT_Timer_Top;
     htimer32_2.State = TIMER32_STATE_DISABLE;
@@ -231,9 +233,9 @@ uint16_t DSHOT_preparePacket(uint16_t value) {
 }
 
 //Подготовка буфферов DMA
+//Delay с нулями необходим, так как каналы открываются в разное время
 void DSHOT_prepareDMAbuffer(uint32_t* motorDMAbuffer, uint16_t packet, uint8_t delay) {
 	//Первый бит длиннее, так как DMA его сокращает
-	//Я не знаю почему
 	motorDMAbuffer[0 + delay] = (packet & 0x8000) ? (DSHOT_one + DSHOT_OCR_correct) : (DSHOT_zero + DSHOT_OCR_correct);
 	packet <<= 1;
 	
@@ -257,34 +259,18 @@ uint16_t DSHOT_round(float floatNum) {
 //Отправка сообщения DSHOT
 void DSHOT_send(float* mixersSignals) {
 	//Подготовка сообщений
-	DSHOT_prepareDMAbuffer(OCR_codes_Ch0, DSHOT_preparePacket(DSHOT_round(mixersSignals[0])), 7);
-	DSHOT_prepareDMAbuffer(OCR_codes_Ch1, DSHOT_preparePacket(DSHOT_round(mixersSignals[1])), 5);
-	DSHOT_prepareDMAbuffer(OCR_codes_Ch2, DSHOT_preparePacket(DSHOT_round(mixersSignals[2])), 4);
-	DSHOT_prepareDMAbuffer(OCR_codes_Ch3, DSHOT_preparePacket(DSHOT_round(mixersSignals[3])), 2);	
+	DSHOT_prepareDMAbuffer(OCR_codes_Ch0, DSHOT_preparePacket(DSHOT_round(mixersSignals[0])), 6);
+	DSHOT_prepareDMAbuffer(OCR_codes_Ch1, DSHOT_preparePacket(DSHOT_round(mixersSignals[1])), 4);
+	DSHOT_prepareDMAbuffer(OCR_codes_Ch2, DSHOT_preparePacket(DSHOT_round(mixersSignals[2])), 3);
+	DSHOT_prepareDMAbuffer(OCR_codes_Ch3, DSHOT_preparePacket(DSHOT_round(mixersSignals[3])), 1);	
 	for(volatile int i = 0; i < 10; i++);
 	
 	//Отправка
-	//for(volatile int i = 0; i < 5; i++);
-	
-	//for(volatile int i = 0; i < 10; i++);
 	HAL_DMA_Start(&hdma_ch0, (void *)&OCR_codes_Ch0, (void *)&htimer32_channel0.Instance->OCR, sizeof(OCR_codes_Ch0) - 1);
-	//for(volatile int i = 0; i < 10; i++);
 	HAL_DMA_Start(&hdma_ch1, (void *)&OCR_codes_Ch1, (void *)&htimer32_channel1.Instance->OCR, sizeof(OCR_codes_Ch1) - 1);
-	//for(volatile int i = 0; i < 10; i++);
 	HAL_DMA_Start(&hdma_ch2, (void *)&OCR_codes_Ch2, (void *)&htimer32_channel2.Instance->OCR, sizeof(OCR_codes_Ch2) - 1);
-	//for(volatile int i = 0; i < 10; i++);
 	HAL_DMA_Start(&hdma_ch3, (void *)&OCR_codes_Ch3, (void *)&htimer32_channel3.Instance->OCR, sizeof(OCR_codes_Ch3) - 1);
-	
-	//HAL_DMA_ChannelEnable(&hdma_ch0);
-	//HAL_DMA_ChannelEnable(&hdma_ch1);
-	//HAL_DMA_ChannelEnable(&hdma_ch2);
-	//HAL_Timer32_Channel_Enable(&hdma_ch0);
-	//HAL_Timer32_Channel_Enable(&hdma_ch1);
-	//HAL_Timer32_Channel_Enable(&hdma_ch2);
 
-	
-	
-	
 	if (HAL_DMA_Wait(&hdma_ch0, 2 * DMA_TIMEOUT_DEFAULT) != HAL_OK) {
 		//Error handler
     }
@@ -297,36 +283,4 @@ void DSHOT_send(float* mixersSignals) {
 	if (HAL_DMA_Wait(&hdma_ch3, 2 * DMA_TIMEOUT_DEFAULT) != HAL_OK) {
 		//Error handler
     }
-	//HAL_DMA_ChannelDisable(&hdma_ch0);
-	//HAL_DMA_ChannelDisable(&hdma_ch1);
-	//HAL_DMA_ChannelDisable(&hdma_ch2);
-	
-//	for(volatile int i = 0; i < 20; i++); 
-/*	HAL_DMA_Start(&hdma_ch2, (void *)&OCR_codes_Ch2, (void *)&htimer32_channel2.Instance->OCR, sizeof(OCR_codes_Ch2) - 1);*/
-	//for(volatile int i = 0; i < 20; i++);
- //	HAL_DMA_Start(&hdma_ch3, (void *)&OCR_codes_Ch3, (void *)&htimer32_channel3.Instance->OCR, sizeof(OCR_codes_Ch3) - 1);	
-		 
-	//for(volatile int i = 0; i < 1000000; i++);
- 
- 	//if (HAL_DMA_Wait(&hdma_ch1, 2 * DMA_TIMEOUT_DEFAULT) != HAL_OK) {
-		//Error handler
-    //} 
- /*	if (HAL_DMA_Wait(&hdma_ch2, 2 * DMA_TIMEOUT_DEFAULT) != HAL_OK) {
-		//Error handler
-    } */
-// 	if (HAL_DMA_Wait(&hdma_ch3, 20 * DMA_TIMEOUT_DEFAULT) != HAL_OK) {
-		//Error handler
-//    }
-	//for(volatile int i = 0; i < 10; i++);
-	//HAL_Timer32_Stop(&htimer32_1);
-	//HAL_Timer32_Stop(&htimer32_2); 
-
-	
-	
-	
-	//HAL_Timer32_Value_Clear(&htimer32_1);
-	//HAL_Timer32_Value_Clear(&htimer32_2);
-/* 	HAL_Timer32_Channel_Disable(&hdma_ch0);
-	HAL_Timer32_Channel_Disable(&hdma_ch1);
-	HAL_Timer32_Channel_Disable(&hdma_ch2); */
 }
