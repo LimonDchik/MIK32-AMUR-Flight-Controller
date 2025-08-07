@@ -17,11 +17,17 @@
 
 #include "mik32_hal_i2c.h"
 
+#include "mik32_dshot.h"
+#include "mik32_pid_bf.h"
+#include "mik32_mix_bf.h"
+
 #define GYRO_SENSITIVITY            65.5f   // LSB/(grad/s)
 #define GYRO_ADDR  0x68
 #define I2C_TIMEOUT (I2C_TIMEOUT_DEFAULT)
 #define GYRO_CALIB_ITERATIONS_NUM   2000
 #define GYRO_FILTER_RATE 1.0f
+
+#define XYZ_AXIS_COUNT 3
 
 I2C_HandleTypeDef hi2c1;
 
@@ -33,6 +39,13 @@ volatile fix32_t  gyro_roll = 0, gyro_pitch = 0, gyro_yaw = 0;
 volatile fix32_t  gyro_roll_flt = 0, gyro_pitch_flt = 0, gyro_yaw_flt = 0;
 volatile fix32_t  gyro_roll_bias = 0, gyro_pitch_bias = 0, gyro_yaw_bias = 0;
 volatile fix32_t  acc_x = 0, acc_y = 0, acc_z = 0;
+
+float gyroADCf[XYZ_AXIS_COUNT] = {0.0f, 0.0f, 0.0f};
+float pidSums[XYZ_AXIS_COUNT];
+float pidP[XYZ_AXIS_COUNT];
+float pidI[XYZ_AXIS_COUNT];
+float pidD[XYZ_AXIS_COUNT];
+float motor[] = {1500.0f, 1500.0f, 1500.0f, 1500.0f};
 
 void SystemClockConfig(void);
 static void LED_task(void *param);
@@ -72,7 +85,20 @@ int main()
 	//HAL_EPIC_MaskLevelSet();
 	HAL_IRQ_EnableInterrupts();
 	
+	
+	
 	gyro_calibration();
+	//for(volatile int i = 0; i < 100; i++);
+	pidBFInitDefault();
+	//for(volatile int i = 0; i < 100; i++);
+	mixBfInitDefault();
+	//for(volatile int i = 0; i < 100; i++);
+    mixerSetThrottleAngleCorrection(50);
+	//for(volatile int i = 0; i < 100; i++);
+	gyro_processing();
+	//for(volatile int i = 0; i < 100; i++);
+	rawSetpointUpdate((float)fix32_to_int(gyro_roll_flt),(float)fix32_to_int(gyro_pitch_flt),(float)fix32_to_int(gyro_yaw_flt));
+	//for(volatile int i = 0; i < 100; i++);
 	
 	vTaskStartScheduler();
 	
@@ -109,12 +135,20 @@ static void LED_task(void *param)
 
 static void MPU_task(void *param)
 {
-
+	//for(volatile int i = 0; i < 100; i++);
+	DSHOT_init(0);
+	//for(volatile int i = 0; i < 100; i++);
 	while(1)
 	{
 		//DSHOT_send(mixer);
 		gyro_processing();
-		
+		//for(volatile int i = 0; i < 100; i++);
+		pidController(gyroADCf, pidSums);
+		//for(volatile int i = 0; i < 100; i++);
+		mixTable(pidSums, pidBFGetPidSumLimit(), pidBFGetPidSumLimitYaw(), motor);
+		//for(volatile int i = 0; i < 100; i++);
+		DSHOT_send(motor);
+		//for(volatile int i = 0; i < 100; i++);
 		xprintf("gyro_roll_flt = %d\n", fix32_to_int(gyro_roll_flt));
 		xprintf("gyro_pitch_flt = %d\n", fix32_to_int(gyro_pitch_flt));
 		xprintf("gyro_yaw_flt = %d\n", fix32_to_int(gyro_yaw_flt));
@@ -192,6 +226,10 @@ void gyro_processing(void)
     acc_x = fix32_from_int(-acc_axis[0]);
     acc_y = fix32_from_int(-acc_axis[1]);
     acc_z = fix32_from_int(-acc_axis[2]);
+	
+	gyroADCf[0] = (float)fix32_to_int(gyro_roll_flt);
+	gyroADCf[1] = (float)fix32_to_int(gyro_pitch_flt);
+	gyroADCf[2] = (float)fix32_to_int(gyro_yaw_flt);
 }
 
 void gyro_calibration(void)

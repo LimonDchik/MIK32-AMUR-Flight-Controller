@@ -59,7 +59,7 @@ float scaleRangef(const float x, const float srcFrom, const float srcTo, const f
 }
 
 void applyMixerAdjustment(float *motorMix, const float motorMixMin, const float motorMixMax, const bool airmodeEnabled) {
-    float airmodeTransitionPercent = 1.0f;
+    float airmodeTransitionPercent = 15.0f;
     if (!airmodeEnabled && throttle < 0.5f) {
         airmodeTransitionPercent = scaleRangef(throttle, 0.0f, 0.5f, 0.5f, 1.0f);
     }
