@@ -35,6 +35,7 @@ C_SOURCES = $(wildcard $(SRC_DIR)/*.c) \
 						$(SRC_DIR)/Pilot/mik32_pilot.c \
 						$(SRC_DIR)/Mixers/mik32_mix_bf.c \
 						$(SRC_DIR)/drivers/Motors/mik32_dshot.c \
+						$(SRC_DIR)/drivers/MPU6050/mik32_mpu6050.c \
 						$(SRC_DIR)/libfixmath64/fix32.c \
 						$(SRC_DIR)/libfixmath64/fix32_exp.c \
 						$(SRC_DIR)/libfixmath64/fix32_sqrt.c \
@@ -67,6 +68,7 @@ C_INCLUDES = -I$(SRC_DIR) \
 							-I$(SRC_DIR)/Mixers \
 							-I$(SRC_DIR)/drivers/Motors \
 							-I$(SRC_DIR)/libfixmath64 \
+							-I$(SRC_DIR)/drivers/MPU6050 \
 
 PREFIX = riscv-none-embed-
 
